@@ -1,3 +1,4 @@
+
 # Lilac & Peach
 
   
@@ -64,16 +65,7 @@ Both instruments are under active development. New samples, features and updates
 6. Select the file ending with .hr1 that you downloaded from dropbox & select a location to save the samples
 7. Restart the plugin
 
-  
-
-  # Coming Soon
-
-
-
-
-  
-
-  
+ 
 
 # Support this project
 
