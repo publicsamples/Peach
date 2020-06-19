@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/triangle 2hp1lp res" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="320909" LoopEnd="442439"
+          SampleRate="44100.00000000" MonolithOffset="0" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="205292" LoopEnd="345906"
+          SampleRate="44100.00000000" MonolithOffset="684032" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="226323" LoopEnd="345115"
+          SampleRate="44100.00000000" MonolithOffset="1368064" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="83803" LoopEnd="210783"
+          SampleRate="44100.00000000" MonolithOffset="2052096" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="40171" LoopEnd="233720"
+          SampleRate="44100.00000000" MonolithOffset="2736128" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="344704" LoopEnd="501365"
+          SampleRate="44100.00000000" MonolithOffset="3420160" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="307668" LoopEnd="434655"
+          SampleRate="44100.00000000" MonolithOffset="4104192" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres0-D1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="252895" LoopEnd="417727"
+          SampleRate="44100.00000000" MonolithOffset="4788224" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="63322" LoopEnd="180667"
+          SampleRate="44100.00000000" MonolithOffset="5472256" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="65943" LoopEnd="191954"
+          SampleRate="44100.00000000" MonolithOffset="6156288" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="25622" LoopEnd="146053"
+          SampleRate="44100.00000000" MonolithOffset="6840320" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="53493" LoopEnd="177609"
+          SampleRate="44100.00000000" MonolithOffset="7524352" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="315938" LoopEnd="428555"
+          SampleRate="44100.00000000" MonolithOffset="8208384" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="21380" LoopEnd="162717"
+          SampleRate="44100.00000000" MonolithOffset="8892416" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="266141" LoopEnd="394149"
+          SampleRate="44100.00000000" MonolithOffset="9576448" MonolithLength="684032"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres39-G#1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="277892" LoopEnd="419192"
+          SampleRate="44100.00000000" MonolithOffset="10260480" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="135192" LoopEnd="250039"
+          SampleRate="44100.00000000" MonolithOffset="10944512" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="8490" LoopEnd="123242"
+          SampleRate="44100.00000000" MonolithOffset="11628544" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="78430" LoopEnd="197183"
+          SampleRate="44100.00000000" MonolithOffset="12312576" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="427686" LoopEnd="554633"
+          SampleRate="44100.00000000" MonolithOffset="12996608" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="119409" LoopEnd="235439"
+          SampleRate="44100.00000000" MonolithOffset="13680640" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="292547" LoopEnd="411338"
+          SampleRate="44100.00000000" MonolithOffset="14364672" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="125030" LoopEnd="247923"
+          SampleRate="44100.00000000" MonolithOffset="15048704" MonolithLength="684032"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres45-D2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="282151" LoopEnd="436077"
+          SampleRate="44100.00000000" MonolithOffset="15732736" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2404" LoopEnd="116907"
+          SampleRate="44100.00000000" MonolithOffset="16416768" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1220" LoopEnd="113412"
+          SampleRate="44100.00000000" MonolithOffset="17100800" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1137" LoopEnd="123291"
+          SampleRate="44100.00000000" MonolithOffset="17784832" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="23055" LoopEnd="150951"
+          SampleRate="44100.00000000" MonolithOffset="18468864" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="94620" LoopEnd="208244"
+          SampleRate="44100.00000000" MonolithOffset="19152896" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="214694" LoopEnd="328298"
+          SampleRate="44100.00000000" MonolithOffset="19836928" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="28167" LoopEnd="154207"
+          SampleRate="44100.00000000" MonolithOffset="20520960" MonolithLength="684032"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres51-G#2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="171331" LoopEnd="298311"
+          SampleRate="44100.00000000" MonolithOffset="21204992" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="840" LoopEnd="115900"
+          SampleRate="44100.00000000" MonolithOffset="21889024" MonolithLength="679936"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="846" LoopEnd="114902"
+          SampleRate="44100.00000000" MonolithOffset="22568960" MonolithLength="679936"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1032" LoopEnd="113447"
+          SampleRate="44100.00000000" MonolithOffset="23248896" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="181314" LoopEnd="296044"
+          SampleRate="44100.00000000" MonolithOffset="23932928" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="183595" LoopEnd="297632"
+          SampleRate="44100.00000000" MonolithOffset="24616960" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2801" LoopEnd="114844"
+          SampleRate="44100.00000000" MonolithOffset="25300992" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="6375" LoopEnd="119759"
+          SampleRate="44100.00000000" MonolithOffset="25985024" MonolithLength="684032"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres57-D3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="112517" LoopEnd="230606"
+          SampleRate="44100.00000000" MonolithOffset="26669056" MonolithLength="684032"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1381" LoopEnd="114954"
+          SampleRate="44100.00000000" MonolithOffset="27353088" MonolithLength="679936"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="909" LoopEnd="114910"
+          SampleRate="44100.00000000" MonolithOffset="28033024" MonolithLength="684032"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="83088" LoopEnd="198749"
+          SampleRate="44100.00000000" MonolithOffset="28717056" MonolithLength="679936"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2792" LoopEnd="116348"
+          SampleRate="44100.00000000" MonolithOffset="29396992" MonolithLength="679936"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="5992" LoopEnd="124317"
+          SampleRate="44100.00000000" MonolithOffset="30076928" MonolithLength="684032"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="8216" LoopEnd="121286"
+          SampleRate="44100.00000000" MonolithOffset="30760960" MonolithLength="684032"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="81484" LoopEnd="193613"
+          SampleRate="44100.00000000" MonolithOffset="31444992" MonolithLength="684032"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres63-G#3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="278541" LoopEnd="393538"
+          SampleRate="44100.00000000" MonolithOffset="32129024" MonolithLength="684032"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="3228" LoopEnd="117410"
+          SampleRate="44100.00000000" MonolithOffset="32813056" MonolithLength="679936"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2262" LoopEnd="116452"
+          SampleRate="44100.00000000" MonolithOffset="33492992" MonolithLength="679936"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="99310" LoopEnd="212659"
+          SampleRate="44100.00000000" MonolithOffset="34172928" MonolithLength="679936"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="150089" LoopEnd="264278"
+          SampleRate="44100.00000000" MonolithOffset="34852864" MonolithLength="679936"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1254" LoopEnd="113966"
+          SampleRate="44100.00000000" MonolithOffset="35532800" MonolithLength="679936"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="9525" LoopEnd="121912"
+          SampleRate="44100.00000000" MonolithOffset="36212736" MonolithLength="684032"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="89073" LoopEnd="202123"
+          SampleRate="44100.00000000" MonolithOffset="36896768" MonolithLength="684032"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Triangles/triangle 2hp1lp res/tri2hp1lpres69-D4 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="138853" LoopEnd="253582"
+          SampleRate="44100.00000000" MonolithOffset="37580800" MonolithLength="684032"/>
+</samplemap>

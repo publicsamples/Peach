@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptSlider" id="pitch1" value="-1.00000000"/>
+    <Control type="ScriptSlider" id="plfo1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="pitchLFOspeed1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="Knob54" value="0.00000000"/>
+    <Control type="ScriptSlider" id="Knob55" value="27.00000000"/>
+    <Control type="ScriptSlider" id="Knob46" value="0.03000000"/>
+    <Control type="ScriptButton" id="Button5" value="1.00000000"/>
+    <Control type="ScriptLabel" id="Label21" value="course           fine"/>
+    <Control type="ScriptLabel" id="Label25" value="lfo           speed"/>
+    <Control type="ScriptLabel" id="Label28" value="env            decay"/>
+    <Control type="ScriptComboBox" id="cmbSampleMap" value="13.00000000"/>
+    <Control type="ScriptSlider" id="layerenv1" value="0.98000002"/>
+    <Control type="ScriptSlider" id="Layer1" value="1.00000000"/>
+    <Control type="ScriptSlider" id="track1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="layerlfo1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="layerlfodelay1" value="0.05000000"/>
+    <Control type="ScriptSlider" id="layerlfospeed1" value="5.09999990"/>
+    <Control type="ScriptSlider" id="layerlfosmooth1" value="3.08999991"/>
+    <Control type="ScriptComboBox" id="ltype1" value="1.00000000"/>
+    <Control type="ScriptButton" id="sync1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="dl1" value="1242.00000000"/>
+    <Control type="ScriptSlider" id="sl1" value="-100.00000000"/>
+    <Control type="ScriptSlider" id="rl1" value="8.00000000"/>
+    <Control type="ScriptSlider" id="al1" value="0.00000000"/>
+    <Control type="ScriptSlider" id="Knob49" value="0.00000000"/>
+    <Control type="ScriptLabel" id="Label35" value="lfo             env          track           vel"/>
+    <Control type="ScriptSlider" id="ad2" value="20000.00000000"/>
+    <Control type="ScriptSlider" id="as3" value="-100.00000000"/>
+    <Control type="ScriptSlider" id="ar4" value="0.00000000"/>
+    <Control type="ScriptSlider" id="g1" value="0.49000001"/>
+    <Control type="ScriptSlider" id="a1" value="0.00000000"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>

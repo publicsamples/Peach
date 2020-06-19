@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VolcaKeys/SAW-UNISON-FILTER-HIRES" RRGroupAmount="8.00000000"
+           MicPositions=";" SaveMode="2">
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-16-MQQD.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="343862" LoopEnd="961003"
+          MonolithOffset="0" MonolithLength="1601536" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-30-IW0B.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="761461" LoopEnd="1093389"
+          MonolithOffset="1601536" MonolithLength="1609728" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-48-U1NZ.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="562103" LoopEnd="1142639"
+          MonolithOffset="3211264" MonolithLength="1605632" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-60-MIQL.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="516162" LoopEnd="1198864"
+          MonolithOffset="4816896" MonolithLength="1605632" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-78-CEUA.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="362823" LoopEnd="549336"
+          MonolithOffset="6422528" MonolithLength="1605632" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-94-EJEY.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="321374" LoopEnd="1221514"
+          MonolithOffset="8028160" MonolithLength="1605632" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-111-TIEY.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="250073" LoopEnd="852460"
+          MonolithOffset="9633792" MonolithLength="1605632" SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SAW-UNISON-FILTER-HIRES/SAW-UNISON-FILTER-HIRES-C3-127-JQG4.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="224244" LoopEnd="1064624"
+          MonolithOffset="11239424" MonolithLength="1605632" SampleRate="96000.00000000"/>
+</samplemap>

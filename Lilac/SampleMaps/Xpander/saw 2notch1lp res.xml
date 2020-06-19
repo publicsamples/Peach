@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/saw 2notch1lp res" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="130060" LoopEnd="246095"
+          SampleRate="44100.00000000" MonolithOffset="0" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="243034" LoopEnd="370010"
+          SampleRate="44100.00000000" MonolithOffset="684032" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="102745" LoopEnd="268634"
+          SampleRate="44100.00000000" MonolithOffset="1368064" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="423249" LoopEnd="542030"
+          SampleRate="44100.00000000" MonolithOffset="2052096" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="180717" LoopEnd="539115"
+          SampleRate="44100.00000000" MonolithOffset="2736128" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="118100" LoopEnd="363855"
+          SampleRate="44100.00000000" MonolithOffset="3420160" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="401500" LoopEnd="517530"
+          SampleRate="44100.00000000" MonolithOffset="4104192" MonolithLength="684032"/>
+  <sample Root="36" LoKey="0" HiKey="41" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres0-D1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="26033" LoopEnd="152995"
+          SampleRate="44100.00000000" MonolithOffset="4788224" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="77992" LoopEnd="201902"
+          SampleRate="44100.00000000" MonolithOffset="5472256" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="112780" LoopEnd="238668"
+          SampleRate="44100.00000000" MonolithOffset="6156288" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="235714" LoopEnd="363699"
+          SampleRate="44100.00000000" MonolithOffset="6840320" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="158779" LoopEnd="354347"
+          SampleRate="44100.00000000" MonolithOffset="7524352" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="170055" LoopEnd="350268"
+          SampleRate="44100.00000000" MonolithOffset="8208384" MonolithLength="679936"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="32929" LoopEnd="369817"
+          SampleRate="44100.00000000" MonolithOffset="8888320" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="63535" LoopEnd="215087"
+          SampleRate="44100.00000000" MonolithOffset="9572352" MonolithLength="684032"/>
+  <sample Root="42" LoKey="42" HiKey="47" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres39-G#1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="256989" LoopEnd="532611"
+          SampleRate="44100.00000000" MonolithOffset="10256384" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="49800" LoopEnd="165234"
+          SampleRate="44100.00000000" MonolithOffset="10940416" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="31185" LoopEnd="149225"
+          SampleRate="44100.00000000" MonolithOffset="11624448" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="20780" LoopEnd="137400"
+          SampleRate="44100.00000000" MonolithOffset="12308480" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="92781" LoopEnd="294515"
+          SampleRate="44100.00000000" MonolithOffset="12992512" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="220234" LoopEnd="350312"
+          SampleRate="44100.00000000" MonolithOffset="13676544" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2819" LoopEnd="192279"
+          SampleRate="44100.00000000" MonolithOffset="14360576" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="107035" LoopEnd="558618"
+          SampleRate="44100.00000000" MonolithOffset="15044608" MonolithLength="684032"/>
+  <sample Root="48" LoKey="48" HiKey="53" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres45-D2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="334174" LoopEnd="533158"
+          SampleRate="44100.00000000" MonolithOffset="15728640" MonolithLength="684032"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="12638" LoopEnd="130861"
+          SampleRate="44100.00000000" MonolithOffset="16412672" MonolithLength="679936"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1689" LoopEnd="120461"
+          SampleRate="44100.00000000" MonolithOffset="17092608" MonolithLength="684032"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="227991" LoopEnd="346681"
+          SampleRate="44100.00000000" MonolithOffset="17776640" MonolithLength="684032"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="151709" LoopEnd="270430"
+          SampleRate="44100.00000000" MonolithOffset="18460672" MonolithLength="679936"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="118917" LoopEnd="350341"
+          SampleRate="44100.00000000" MonolithOffset="19140608" MonolithLength="679936"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="9840" LoopEnd="142897"
+          SampleRate="44100.00000000" MonolithOffset="19820544" MonolithLength="684032"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="3967" LoopEnd="121228"
+          SampleRate="44100.00000000" MonolithOffset="20504576" MonolithLength="684032"/>
+  <sample Root="54" LoKey="54" HiKey="59" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres51-G#2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="42588" LoopEnd="217646"
+          SampleRate="44100.00000000" MonolithOffset="21188608" MonolithLength="684032"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="29745" LoopEnd="144354"
+          SampleRate="44100.00000000" MonolithOffset="21872640" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="136381" LoopEnd="249989"
+          SampleRate="44100.00000000" MonolithOffset="22552576" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="188136" LoopEnd="302476"
+          SampleRate="44100.00000000" MonolithOffset="23232512" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="30580" LoopEnd="144884"
+          SampleRate="44100.00000000" MonolithOffset="23912448" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="19958" LoopEnd="138281"
+          SampleRate="44100.00000000" MonolithOffset="24592384" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="111998" LoopEnd="265436"
+          SampleRate="44100.00000000" MonolithOffset="25272320" MonolithLength="684032"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="91797" LoopEnd="204050"
+          SampleRate="44100.00000000" MonolithOffset="25956352" MonolithLength="679936"/>
+  <sample Root="60" LoKey="60" HiKey="65" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres57-D3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="75141" LoopEnd="198864"
+          SampleRate="44100.00000000" MonolithOffset="26636288" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="212382" LoopEnd="327040"
+          SampleRate="44100.00000000" MonolithOffset="27316224" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="103665" LoopEnd="218048"
+          SampleRate="44100.00000000" MonolithOffset="27996160" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="45891" LoopEnd="159309"
+          SampleRate="44100.00000000" MonolithOffset="28676096" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="104512" LoopEnd="223683"
+          SampleRate="44100.00000000" MonolithOffset="29356032" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="116011" LoopEnd="236110"
+          SampleRate="44100.00000000" MonolithOffset="30035968" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="21863" LoopEnd="157213"
+          SampleRate="44100.00000000" MonolithOffset="30715904" MonolithLength="679936"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="275045" LoopEnd="441435"
+          SampleRate="44100.00000000" MonolithOffset="31395840" MonolithLength="684032"/>
+  <sample Root="66" LoKey="66" HiKey="71" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres63-G#3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="66995" LoopEnd="185197"
+          SampleRate="44100.00000000" MonolithOffset="32079872" MonolithLength="684032"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="51710" LoopEnd="165101"
+          SampleRate="44100.00000000" MonolithOffset="32763904" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="42430" LoopEnd="157524"
+          SampleRate="44100.00000000" MonolithOffset="33443840" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="776" LoopEnd="132723"
+          SampleRate="44100.00000000" MonolithOffset="34123776" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="184124" LoopEnd="307970"
+          SampleRate="44100.00000000" MonolithOffset="34803712" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="29001" LoopEnd="146120"
+          SampleRate="44100.00000000" MonolithOffset="35483648" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="384117" LoopEnd="530734"
+          SampleRate="44100.00000000" MonolithOffset="36163584" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="315759" LoopEnd="429165"
+          SampleRate="44100.00000000" MonolithOffset="36843520" MonolithLength="679936"/>
+  <sample Root="72" LoKey="72" HiKey="125" LoVel="9" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw 2notch1lp res/saw2notch1lpres69-G8 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="9851" LoopEnd="137422"
+          SampleRate="44100.00000000" MonolithOffset="37523456" MonolithLength="679936"/>
+</samplemap>

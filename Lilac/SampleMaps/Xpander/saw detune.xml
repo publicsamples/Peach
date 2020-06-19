@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/saw detune" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D11-16-VAPU.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="69730" LoopEnd="463998"
+          MonolithOffset="0" MonolithLength="581632" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D117-32-PIU1.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="156459" LoopEnd="330466"
+          MonolithOffset="581632" MonolithLength="577536" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D133-48-Z45J.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="3705" LoopEnd="410208"
+          MonolithOffset="1159168" MonolithLength="585728" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D149-64-POIR.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="47062" LoopEnd="319459"
+          MonolithOffset="1744896" MonolithLength="577536" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D165-79-LMHY.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="6771" LoopEnd="333268"
+          MonolithOffset="2322432" MonolithLength="581632" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D180-95-O55V.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="27661" LoopEnd="475140"
+          MonolithOffset="2904064" MonolithLength="581632" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D196-111-005F.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="65287" LoopEnd="463537"
+          MonolithOffset="3485696" MonolithLength="581632" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D1-D1112-127-HWGP.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="5565" LoopEnd="443916"
+          MonolithOffset="4067328" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D21-16-M0JV.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="18596" LoopEnd="141269"
+          MonolithOffset="4632576" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D217-32-TUE6.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="54401" LoopEnd="92872"
+          MonolithOffset="5197824" MonolithLength="221184" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D233-48-D25T.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="179328" LoopEnd="380968"
+          MonolithOffset="5419008" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D249-64-6WHJ.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="42216" LoopEnd="127141"
+          MonolithOffset="5980160" MonolithLength="172032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D265-79-C2EW.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="15604" LoopEnd="20958"
+          MonolithOffset="6152192" MonolithLength="32768" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D280-95-SQC3.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1287" LoopEnd="5966"
+          MonolithOffset="6184960" MonolithLength="36864" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D296-111-EH37.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="34863" LoopEnd="75312"
+          MonolithOffset="6221824" MonolithLength="135168" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D2-D2112-127-HIOT.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="27258" LoopEnd="66395"
+          MonolithOffset="6356992" MonolithLength="106496" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D31-16-KVYO.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="680" LoopEnd="20240"
+          MonolithOffset="6463488" MonolithLength="57344" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D317-32-5K21.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="81168" LoopEnd="245997"
+          MonolithOffset="6520832" MonolithLength="344064" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D333-48-F245.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="124741" LoopEnd="185070"
+          MonolithOffset="6864896" MonolithLength="253952" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D349-64-NPVZ.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="227668" LoopEnd="328155"
+          MonolithOffset="7118848" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D365-79-SXD0.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="21967" LoopEnd="142658"
+          MonolithOffset="7680000" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D380-95-R04J.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="10566" LoopEnd="443668"
+          MonolithOffset="8237056" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D396-111-OJTK.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="104744" LoopEnd="185662"
+          MonolithOffset="8790016" MonolithLength="278528" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-D3-D3112-127-ZC8V.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="4347" LoopEnd="14876"
+          MonolithOffset="9068544" MonolithLength="49152" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#11-16-4L2K.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="15569" LoopEnd="420089"
+          MonolithOffset="9117696" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#117-32-BJD9.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="17590" LoopEnd="456958"
+          MonolithOffset="9682944" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#133-48-LDTQ.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="90161" LoopEnd="435292"
+          MonolithOffset="10248192" MonolithLength="569344" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#149-64-VUDX.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="163592" LoopEnd="433812"
+          MonolithOffset="10817536" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#165-79-1YBL.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1599" LoopEnd="458471"
+          MonolithOffset="11382784" MonolithLength="573440" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#180-95-W9HM.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="52719" LoopEnd="355854"
+          MonolithOffset="11956224" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#196-111-VGOO.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="180772" LoopEnd="295279"
+          MonolithOffset="12521472" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#1-G#1112-127-18UI.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="15830" LoopEnd="455197"
+          MonolithOffset="13082624" MonolithLength="565248" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#21-16-ETDU.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="39031" LoopEnd="209721"
+          MonolithOffset="13647872" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#217-32-S63X.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="253959" LoopEnd="460800"
+          MonolithOffset="14209024" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#233-48-W842.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="20682" LoopEnd="135609"
+          MonolithOffset="14770176" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#249-64-5970.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="106717" LoopEnd="224456"
+          MonolithOffset="15327232" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#265-79-WDI2.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="63642" LoopEnd="378237"
+          MonolithOffset="15884288" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#280-95-WI98.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="239646" LoopEnd="351268"
+          MonolithOffset="16441344" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#296-111-9475.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="113482" LoopEnd="313255"
+          MonolithOffset="16994304" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#2-G#2112-127-DWWK.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="245533" LoopEnd="363261"
+          MonolithOffset="17551360" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#31-16-4UEV.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="8468" LoopEnd="124245"
+          MonolithOffset="18108416" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#317-32-5Y9X.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="312875" LoopEnd="441092"
+          MonolithOffset="18665472" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#333-48-P3EW.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="266401" LoopEnd="425322"
+          MonolithOffset="19222528" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#349-64-SD7T.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="286736" LoopEnd="417762"
+          MonolithOffset="19779584" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#365-79-81TO.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="220095" LoopEnd="419812"
+          MonolithOffset="20336640" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#380-95-GK5L.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="56970" LoopEnd="216619"
+          MonolithOffset="20893696" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#396-111-4D9B.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="281797" LoopEnd="397572"
+          MonolithOffset="21450752" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G#3-G#3112-127-9XB0.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="109436" LoopEnd="378758"
+          MonolithOffset="22003712" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G81-16-5NVP.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="123180" LoopEnd="214331"
+          MonolithOffset="22556672" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G817-32-2UF9.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="87332" LoopEnd="239978"
+          MonolithOffset="23117824" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G833-48-IZAL.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="6466" LoopEnd="228540"
+          MonolithOffset="23674880" MonolithLength="561152" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G849-64-TXM8.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="154731" LoopEnd="306226"
+          MonolithOffset="24236032" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G865-79-AUU9.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="212811" LoopEnd="303950"
+          MonolithOffset="24793088" MonolithLength="557056" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G880-95-1FVP.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="65000" LoopEnd="166428"
+          MonolithOffset="25350144" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G896-111-3UKI.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="235566" LoopEnd="397319"
+          MonolithOffset="25903104" MonolithLength="552960" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Saws/saw detune/saw detune/xpander-G8-G8112-127-ECFF.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="69248" LoopEnd="283215"
+          MonolithOffset="26456064" MonolithLength="557056" SampleRate="44100.00000000"/>
+</samplemap>

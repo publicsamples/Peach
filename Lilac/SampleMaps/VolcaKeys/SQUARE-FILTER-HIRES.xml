@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VolcaKeys/SQUARE-FILTER-HIRES" RRGroupAmount="8.00000000"
+           MicPositions=";" SaveMode="2">
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-16-M744.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="437056" LoopEnd="627057"
+          SampleStart="437056" MonolithOffset="0" MonolithLength="1458176"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-30-CI02.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="608847" LoopEnd="963949"
+          SampleStart="608847" MonolithOffset="1458176" MonolithLength="1462272"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-48-G7GC.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="729750" LoopEnd="912609"
+          SampleStart="729750" MonolithOffset="2920448" MonolithLength="1462272"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-60-RK4B.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="474571" LoopEnd="724003"
+          SampleStart="474571" MonolithOffset="4382720" MonolithLength="1462272"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-78-83EO.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="534125" LoopEnd="781520"
+          SampleStart="534125" MonolithOffset="5844992" MonolithLength="1462272"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-94-TBFO.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="799271" LoopEnd="996956"
+          SampleStart="799271" MonolithOffset="7307264" MonolithLength="1462272"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-111-77K6.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="368962" LoopEnd="538010"
+          SampleStart="368962" MonolithOffset="8769536" MonolithLength="1458176"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/SQUARE-FILTER-HIRES/SQUARE-FILTER-HIRES-C3-127-3ZZV.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="590434" LoopEnd="767993"
+          SampleStart="590434" MonolithOffset="10227712" MonolithLength="1458176"
+          SampleRate="96000.00000000"/>
+</samplemap>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="System101/FM-B" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-16-NC3U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="279670" LoopEnd="354213"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="0" MonolithLength="471040" Normalized="1" NormalizedPeak="7.17630339"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-32-GTUZ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="256949" LoopEnd="362932"
+          SampleRate="44100.00000000" SampleStart="471040" SampleEnd="471040"
+          MonolithOffset="471040" MonolithLength="471040" Normalized="1"
+          NormalizedPeak="15.33317757"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-48-IKYJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="244570" LoopEnd="318121"
+          SampleRate="44100.00000000" SampleStart="942080" SampleEnd="466944"
+          MonolithOffset="942080" MonolithLength="466944" Normalized="1"
+          NormalizedPeak="3.52030516"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-64-K7NS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="254230" LoopEnd="335091"
+          SampleRate="44100.00000000" SampleStart="1409024" SampleEnd="466944"
+          MonolithOffset="1409024" MonolithLength="466944" Normalized="1"
+          NormalizedPeak="3.65214014"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-79-WJEX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="288823" LoopEnd="363815"
+          SampleRate="44100.00000000" SampleStart="1875968" SampleEnd="466944"
+          MonolithOffset="1875968" MonolithLength="466944" Normalized="1"
+          NormalizedPeak="4.61377096"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-95-UP8E.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="273641" LoopEnd="347761"
+          SampleRate="44100.00000000" SampleStart="2342912" SampleEnd="466944"
+          MonolithOffset="2342912" MonolithLength="466944" Normalized="1"
+          NormalizedPeak="3.82256174"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-111-J5N1.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="274791" LoopEnd="362948"
+          SampleRate="44100.00000000" SampleStart="2809856" SampleEnd="471040"
+          MonolithOffset="2809856" MonolithLength="471040" Normalized="1"
+          NormalizedPeak="4.22909164"/>
+  <sample Root="60" LoKey="0" HiKey="120" LoVel="0" HiVel="128" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C3-127-2MFT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="174184" LoopEnd="262494"
+          SampleRate="44100.00000000" SampleStart="3280896" SampleEnd="466944"
+          MonolithOffset="3280896" MonolithLength="466944" Normalized="1"
+          NormalizedPeak="4.01064873"/>
+</samplemap>

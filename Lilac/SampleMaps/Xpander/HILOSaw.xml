@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/HILOSaw" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-16-1OV4.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="135819" LoopEnd="431755"
+          SampleRate="48000.00000000" MonolithOffset="0" MonolithLength="733184"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-32-VWI5.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="139834" LoopEnd="257590"
+          SampleRate="48000.00000000" MonolithOffset="733184" MonolithLength="729088"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-48-BBL9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="193877" LoopEnd="549782"
+          SampleRate="48000.00000000" MonolithOffset="1462272" MonolithLength="737280"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-64-UKMH.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="285037" LoopEnd="594285"
+          SampleRate="48000.00000000" MonolithOffset="2199552" MonolithLength="733184"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-79-VRW3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="280382" LoopEnd="496447"
+          SampleRate="48000.00000000" MonolithOffset="2932736" MonolithLength="729088"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-95-MZJO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="473961" LoopEnd="591726"
+          SampleRate="48000.00000000" MonolithOffset="3661824" MonolithLength="720896"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-111-SY37.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="130904" LoopEnd="247198"
+          SampleRate="48000.00000000" MonolithOffset="4382720" MonolithLength="729088"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-38-127-1IO8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="156499" LoopEnd="577364"
+          SampleRate="48000.00000000" MonolithOffset="5111808" MonolithLength="729088"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-16-O5HS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="400340" LoopEnd="610276"
+          SampleRate="48000.00000000" MonolithOffset="5840896" MonolithLength="729088"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-32-KZGD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="321166" LoopEnd="451213"
+          SampleRate="48000.00000000" MonolithOffset="6569984" MonolithLength="741376"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-48-PEBO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="111433" LoopEnd="471880"
+          SampleRate="48000.00000000" MonolithOffset="7311360" MonolithLength="733184"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-64-D4R4.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="340822" LoopEnd="602950"
+          SampleRate="48000.00000000" MonolithOffset="8044544" MonolithLength="737280"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-79-KYT2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="301678" LoopEnd="498303"
+          SampleRate="48000.00000000" MonolithOffset="8781824" MonolithLength="729088"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-95-NQXA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="478082" LoopEnd="612227"
+          SampleRate="48000.00000000" MonolithOffset="9510912" MonolithLength="729088"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-111-LQRH.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="258703" LoopEnd="610958"
+          SampleRate="48000.00000000" MonolithOffset="10240000" MonolithLength="729088"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-44-127-Q3IA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="304892" LoopEnd="434939"
+          SampleRate="48000.00000000" MonolithOffset="10969088" MonolithLength="729088"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-16-DBPV.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="133993" LoopEnd="449829"
+          SampleRate="48000.00000000" MonolithOffset="11698176" MonolithLength="741376"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-32-2AQH.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="169849" LoopEnd="341147"
+          SampleRate="48000.00000000" MonolithOffset="12439552" MonolithLength="724992"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-48-SLOA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="229979" LoopEnd="582971"
+          SampleRate="48000.00000000" MonolithOffset="13164544" MonolithLength="741376"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-64-NLOR.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="113025" LoopEnd="611423"
+          SampleRate="48000.00000000" MonolithOffset="13905920" MonolithLength="729088"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-79-9TTW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="96761" LoopEnd="381143"
+          SampleRate="48000.00000000" MonolithOffset="14635008" MonolithLength="741376"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-95-ZLWM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="147402" LoopEnd="604842"
+          SampleRate="48000.00000000" MonolithOffset="15376384" MonolithLength="729088"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-111-9HTK.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="409232" LoopEnd="516457"
+          SampleRate="48000.00000000" MonolithOffset="16105472" MonolithLength="724992"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-50-127-GASC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="410386" LoopEnd="530944"
+          SampleRate="48000.00000000" MonolithOffset="16830464" MonolithLength="724992"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-16-HUKF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="224622" LoopEnd="361849"
+          SampleRate="48000.00000000" MonolithOffset="17555456" MonolithLength="741376"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-32-IF7M.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="288401" LoopEnd="424586"
+          SampleRate="48000.00000000" MonolithOffset="18296832" MonolithLength="729088"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-48-O9CA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="471615" LoopEnd="575539"
+          SampleRate="48000.00000000" MonolithOffset="19025920" MonolithLength="729088"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-64-SHDK.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="315296" LoopEnd="580509"
+          SampleRate="48000.00000000" MonolithOffset="19755008" MonolithLength="724992"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-79-3S7E.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="240914" LoopEnd="348434"
+          SampleRate="48000.00000000" MonolithOffset="20480000" MonolithLength="733184"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-95-CXKF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="280534" LoopEnd="587722"
+          SampleRate="48000.00000000" MonolithOffset="21213184" MonolithLength="733184"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-111-TWNN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="190104" LoopEnd="324722"
+          SampleRate="48000.00000000" MonolithOffset="21946368" MonolithLength="729088"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-56-127-R8L4.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="233802" LoopEnd="374128"
+          SampleRate="48000.00000000" MonolithOffset="22675456" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-16-6ES6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="340238" LoopEnd="468445"
+          SampleRate="48000.00000000" MonolithOffset="23404544" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-32-U0H6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="257552" LoopEnd="610832"
+          SampleRate="48000.00000000" MonolithOffset="24133632" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-48-YQQ8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="108552" LoopEnd="561817"
+          SampleRate="48000.00000000" MonolithOffset="24862720" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-64-30TT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="433197" LoopEnd="600770"
+          SampleRate="48000.00000000" MonolithOffset="25591808" MonolithLength="724992"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-79-MZIV.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="334439" LoopEnd="439174"
+          SampleRate="48000.00000000" MonolithOffset="26316800" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-95-KII8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="375780" LoopEnd="528292"
+          SampleRate="48000.00000000" MonolithOffset="27045888" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-111-ODZ8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="382953" LoopEnd="604067"
+          SampleRate="48000.00000000" MonolithOffset="27774976" MonolithLength="729088"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-62-127-R8IW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="98460" LoopEnd="223435"
+          SampleRate="48000.00000000" MonolithOffset="28504064" MonolithLength="729088"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-16-UIQL.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="389146" LoopEnd="496901"
+          SampleRate="48000.00000000" MonolithOffset="29233152" MonolithLength="724992"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-32-QEO9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="392738" LoopEnd="589602"
+          SampleRate="48000.00000000" MonolithOffset="29958144" MonolithLength="724992"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-48-01Z6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="481082" LoopEnd="590690"
+          SampleRate="48000.00000000" MonolithOffset="30683136" MonolithLength="737280"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-64-PSMO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="109841" LoopEnd="587783"
+          SampleRate="48000.00000000" MonolithOffset="31420416" MonolithLength="729088"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-79-5VAM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="429547" LoopEnd="556534"
+          SampleRate="48000.00000000" MonolithOffset="32149504" MonolithLength="729088"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-95-6VQB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="120831" LoopEnd="522227"
+          SampleRate="48000.00000000" MonolithOffset="32878592" MonolithLength="729088"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-111-J1LG.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="137139" LoopEnd="287183"
+          SampleRate="48000.00000000" MonolithOffset="33607680" MonolithLength="724992"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-68-127-7PC2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="227883" LoopEnd="607249"
+          SampleRate="48000.00000000" MonolithOffset="34332672" MonolithLength="724992"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-16-Q67A.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="457789" LoopEnd="609306"
+          SampleRate="48000.00000000" MonolithOffset="35057664" MonolithLength="729088"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-32-MSZ0.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="428008" LoopEnd="535819"
+          SampleRate="48000.00000000" MonolithOffset="35786752" MonolithLength="729088"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-48-Y9ZT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="404246" LoopEnd="593950"
+          SampleRate="48000.00000000" MonolithOffset="36515840" MonolithLength="737280"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-64-YLMT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="170915" LoopEnd="530609"
+          SampleRate="48000.00000000" MonolithOffset="37253120" MonolithLength="729088"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-79-ATF2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="318229" LoopEnd="423984"
+          SampleRate="48000.00000000" MonolithOffset="37982208" MonolithLength="729088"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-95-GL4M.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="193438" LoopEnd="300293"
+          SampleRate="48000.00000000" MonolithOffset="38711296" MonolithLength="733184"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-111-LIRS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="362971" LoopEnd="472231"
+          SampleRate="48000.00000000" MonolithOffset="39444480" MonolithLength="741376"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 2/Saws2/SAW HILO/(201639 10721)/SAW HILO-72-127-JP7E.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="422387" LoopEnd="541579"
+          SampleRate="48000.00000000" MonolithOffset="40185856" MonolithLength="729088"/>
+</samplemap>

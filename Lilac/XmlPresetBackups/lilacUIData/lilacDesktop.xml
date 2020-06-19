@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="wave1" x="6.00000000" y="2.00000000" width="333.00000000"
+             height="566.00000000" bgColour="9920450" itemColour="4292003550"
+             itemColour2="4292003550" textColour="4293845472" text="*">
+    <Component type="ScriptPanel" id="pitchpanel1" x="4.00000000" y="78.00000000"
+               parentComponent="wave1" width="112.00000000" height="238.00000000"
+               text="*" itemColour="4283367509" itemColour2="4283367509">
+      <Component type="ScriptSlider" id="pitch1" x="1.00000000" y="34.00000000"
+                 text="" processorId="PITCH" parameterId="Intensity" min="-2.00000000"
+                 width="55.00000000" height="70.00000000" parentComponent="pitchpanel1"
+                 bgColour="0" itemColour="0" itemColour2="0" textColour="4278190080"
+                 isPluginParameter="1" pluginParameterName="pitch1" max="2.00000000"
+                 middlePosition="0.00000000" stepSize="1.00000000"/>
+      <Component type="ScriptSlider" id="plfo1" x="1.00000000" y="103.00000000"
+                 text="j" processorId="PITCH LFO" parameterId="Intensity" width="55.00000000"
+                 height="70.00000000" parentComponent="pitchpanel1" bgColour="0"
+                 itemColour="0" itemColour2="0" isPluginParameter="1" pluginParameterName="pitch-lfo1"
+                 showTextBox="0" textColour="0"/>
+      <Component type="ScriptSlider" id="pitchLFOspeed1" x="52.00000000" y="103.00000000"
+                 text="" processorId="PITCH LFO" parameterId="Frequency" max="40.00000000"
+                 middlePosition="20.00000000" stepSize="1.00000000" width="55.00000000"
+                 height="70.00000000" parentComponent="pitchpanel1" bgColour="0"
+                 itemColour="0" itemColour2="0" textColour="0" isPluginParameter="1"
+                 pluginParameterName="pitch-lfo-speed1"/>
+      <Component type="ScriptSlider" id="Knob54" x="1.00000000" y="175.00000000"
+                 parentComponent="pitchpanel1" width="55.00000000" height="70.00000000"
+                 text="" processorId="pitchenv" parameterId="Intensity" itemColour="0"
+                 itemColour2="0" bgColour="0" textColour="0" isPluginParameter="1"
+                 pluginParameterName="pitch-env1" middlePosition="0.50000000"/>
+      <Component type="ScriptSlider" id="Knob55" x="71.00000000" y="186.00000000"
+                 parentComponent="pitchpanel1" height="45.00000000" width="15.00000000"
+                 text="" processorId="pitchenv" parameterId="Decay" max="20000.00000000"
+                 stepSize="1.00000000" middlePosition="1000.00000000" itemColour="4285612948"
+                 itemColour2="0" bgColour="4291598835" textColour="0" isPluginParameter="1"
+                 pluginParameterName="pitch-env-decay1" isMetaParameter="1" mode="Time"
+                 style="Vertical"/>
+      <Component type="ScriptLabel" id="Label2" x="-8.00000000" y="-2.00000000"
+                 parentComponent="pitchpanel1" text="PITCH" editable="0" saveInPreset="0"
+                 width="64.00000000" height="29.00000000"/>
+      <Component type="ScriptSlider" id="Knob46" x="56.00000000" y="34.00000000"
+                 parentComponent="pitchpanel1" width="56.00000000" height="74.00000000"
+                 text="" middlePosition="0.20000000" itemColour="0" itemColour2="0"
+                 textColour="0" bgColour="0" processorId="fine1" parameterId="Intensity"
+                 max="0.41999969" mode="Frequency"/>
+      <Component type="ScriptButton" id="Button5" x="49.00000000" y="1.00000000"
+                 parentComponent="pitchpanel1" processorId="Sampler1" parameterId="PitchTracking"
+                 width="60.00000000" height="20.00000000" text="track" defaultValue="1.00000000"/>
+      <Component type="ScriptLabel" id="Label21" x="-10.00000000" y="24.00000000"
+                 parentComponent="pitchpanel1" text="course           fine" width="122.00000000"
+                 height="15.00000000" fontSize="12.00000000" fontStyle="Regular"
+                 editable="0" fontName="Arial Rounded MT Bold" bgColour="4287977648"
+                 textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label25" x="-8.00000000" y="93.00000000"
+                 parentComponent="pitchpanel1" text="lfo           speed" fontSize="12.00000000"
+                 fontStyle="Regular" editable="0" fontName="Arial Rounded MT Bold"
+                 bgColour="4287977648" height="14.00000000" width="128.00000000"
+                 textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label28" x="-7.00000000" y="164.00000000"
+                 parentComponent="pitchpanel1" text="env            decay" fontSize="12.00000000"
+                 fontStyle="Regular" editable="0" fontName="Arial Rounded MT Bold"
+                 bgColour="4287977648" height="14.00000000" width="128.00000000"
+                 textColour="4292195293"/>
+    </Component>
+    <Component type="ScriptPanel" id="wavepanel1" x="4.00000000" y="1.00000000"
+               parentComponent="wave1" width="110.00000000" height="76.00000000"
+               text="Waveform" itemColour="4283367509" itemColour2="4283367509">
+      <Component type="ScriptComboBox" id="cmbSampleMap" x="11.00000000" y="28.00000000"
+                 max="19" processorId="Sampler1" items="FM-SYS101-A&#10;FM-SYS101-B&#10;FM-SYS101-C&#10;MISC-SYS101-OX&#10;MISC-SYS101-VOX&#10;NOISE-SYS101-PINK&#10;NOISE-SYS101-WHITE&#10;SAW-SYS101-HIRES&#10;SAW-SYS101-MIDRES&#10;SAW-SYS101-VERYHIRES&#10;SQUARE-SYS101-DETUNE&#10;SQUARE-SYS101-HIRES&#10;SQUARE-SYS101-MIDRES&#10;SQUARE-SYS101-NORES&#10;SQUARE-SYS101-PW&#10;SQUARE-SYS101-PWM&#10;TRI-SYS101-HIRES&#10;TRI-SYS101-MIDRES&#10;TRI-SYS101-NORES"
+                 width="90.00000000" height="32.00000000" text="wave" parentComponent="wavepanel1"
+                 bgColour="4292003550" itemColour="4292003550" itemColour2="4292003550"
+                 textColour="4278190080" isPluginParameter="1" pluginParameterName="wave1"/>
+      <Component type="ScriptLabel" id="wavelabel1" x="-6.00000000" y="2.00000000"
+                 parentComponent="wavepanel1" text="WAVE 1" editable="0" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="stepper1" x="118.00000000" y="339.00000000"
+               parentComponent="wave1" width="210.00000000" height="220.00000000"
+               itemColour="4283367509" itemColour2="4283367509" bgColour="4294922063"
+               textColour="16777215">
+      <Component type="ScriptButton" id="stpon1" x="9.00000000" y="94.00000000"
+                 width="78.00000000" height="37.00000000" text="On/Off" processorId="s1apr"
+                 parameterId="Enabled" parentComponent="stepper1" bgColour="4288707517"
+                 itemColour="4288707517" itemColour2="4288707517" isPluginParameter="1"
+                 pluginParameterName="stepper1-onoff"/>
+      <Component type="ScriptSlider" id="rate1" x="94.00000000" y="94.00000000"
+                 processorId="s1apr" parameterId="SpeedKnob" mode="TempoSync"
+                 max="18.00000000" stepSize="1.00000000" middlePosition="9.00000000"
+                 width="105.00000000" height="50.00000000" text="rate" parentComponent="stepper1"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 textColour="4293845472" isPluginParameter="1" pluginParameterName="stepper1-rate"/>
+      <Component type="ScriptSlider" id="steps1" x="92.00000000" y="143.00000000"
+                 processorId="s1apr" parameterId="NumStepSlider" defaultValue="1.00000000"
+                 max="32.00000000" width="105.00000000" height="50.00000000" text="steps"
+                 middlePosition="16.00000000" min="1.00000000" stepSize="1.00000000"
+                 parentComponent="stepper1" bgColour="4285282689" itemColour="4285282689"
+                 itemColour2="4285282689" textColour="4293845472" isPluginParameter="1"
+                 pluginParameterName="stepper1-steps"/>
+      <Component type="ScriptSliderPack" id="SliderPack1" x="10.00000000" y="32.00000000"
+                 processorId="s1apr" SliderPackIndex="11" defaultValue="16.00000000"
+                 width="190.00000000" height="55.00000000" text="" parentComponent="stepper1"
+                 bgColour="4285410721" itemColour="4289691600" itemColour2="4291598835"/>
+      <Component type="ScriptLabel" id="steplabel1" x="42.00000000" y="2.00000000"
+                 parentComponent="stepper1" text="STEPPER" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="layerpanel1" x="117.00000000" y="5.00000000"
+               parentComponent="wave1" width="210.00000000" height="333.00000000"
+               itemColour="4283367509" itemColour2="4283367509">
+      <Component type="ScriptSlider" id="layerenv1" x="56.00000000" y="67.00000000"
+                 text="" processorId="GROUP ENV" parameterId="Intensity" width="55.00000000"
+                 height="70.00000000" parentComponent="layerpanel1" bgColour="0"
+                 itemColour="0" itemColour2="0" textColour="0" isPluginParameter="1"
+                 pluginParameterName="group-env-amount1"/>
+      <Component type="ScriptSlider" id="Layer1" x="4.00000000" y="12.00000000"
+                 processorId="GROUP LAYER" parameterId="MacroValue" macroControl="No MacroControl"
+                 width="202.00000000" height="44.00000000" text="layer position"
+                 parentComponent="layerpanel1" bgColour="4285282689" itemColour="4285282689"
+                 itemColour2="4285282689" textColour="4293845472" isPluginParameter="1"
+                 pluginParameterName="layer-position1" defaultValue="1.00000000"/>
+      <Component type="ScriptSlider" id="track1" x="103.00000000" y="67.00000000"
+                 text="" width="55.00000000" height="70.00000000" parentComponent="layerpanel1"
+                 bgColour="0" itemColour="0" itemColour2="0" textColour="0" isPluginParameter="1"
+                 pluginParameterName="group-tracking1" processorId="GROUP TRACK"
+                 parameterId="Intensity"/>
+      <Component type="ScriptSlider" id="layerlfo1" x="3.00000000" y="67.00000000"
+                 text="" processorId="GROUP LFO" parameterId="Intensity" width="55.00000000"
+                 height="70.00000000" parentComponent="layerpanel1" bgColour="0"
+                 itemColour="0" itemColour2="0" textColour="0" isPluginParameter="1"
+                 pluginParameterName="group-lfo-amount1" showValuePopup="Above"/>
+      <Component type="ScriptPanel" id="lfo1" x="4.00000000" y="128.00000000"
+                 parentComponent="layerpanel1" width="101.00000000" height="190.00000000"
+                 itemColour="4289567691" itemColour2="4289567691">
+        <Component type="ScriptSlider" id="layerlfodelay1" x="-3.00000000" y="69.00000000"
+                   text="delay" processorId="GROUP LFO" parameterId="FadeIn" max="3000.00000000"
+                   middlePosition="500.00000000" mode="Time" width="107.00000000"
+                   height="50.00000000" parentComponent="lfo1" bgColour="4285282689"
+                   itemColour="4285282689" itemColour2="4285282689" textColour="4293845472"
+                   isPluginParameter="1" pluginParameterName="lfo-delay1"/>
+        <Component type="ScriptSlider" id="layerlfospeed1" x="-3.00000000" y="26.00000000"
+                   text="speed" processorId="GROUP LFO" parameterId="Frequency"
+                   max="40.00000000" middlePosition="10.00000000" width="105.00000000"
+                   height="50.00000000" parentComponent="lfo1" bgColour="4285084288"
+                   itemColour="4285282689" itemColour2="4285282689" textColour="4293845472"
+                   isPluginParameter="1" pluginParameterName="lfo-speed1" min="0.10000000"/>
+        <Component type="ScriptSlider" id="layerlfosmooth1" x="-3.00000000" y="112.00000000"
+                   text="smooth" processorId="GROUP LFO" parameterId="SmoothingTime"
+                   max="1000.00000000" middlePosition="100.00000000" width="102.00000000"
+                   height="50.00000000" parentComponent="lfo1" bgColour="4285282689"
+                   itemColour="4285282689" itemColour2="4285282689" textColour="4293845472"
+                   isPluginParameter="1" pluginParameterName="lfo-smooth1"/>
+        <Component type="ScriptComboBox" id="ltype1" x="4.00000000" y="6.00000000"
+                   max="5" text="" processorId="GROUP LFO" parameterId="WaveFormType"
+                   items="Sine&#10;Triangle&#10;Saw&#10;Square&#10;Random" width="50.00000000"
+                   height="22.00000000" parentComponent="lfo1" bgColour="4288707517"
+                   itemColour="4288707517" itemColour2="4288707517" isPluginParameter="1"
+                   pluginParameterName="lfo-wave1"/>
+        <Component type="ScriptButton" id="sync1" x="43.00000000" y="161.00000000"
+                   width="60.00000000" height="25.00000000" text="sync" processorId="GROUP LFO"
+                   parameterId="TempoSync" parentComponent="lfo1" bgColour="4288707517"
+                   itemColour="4288707517" itemColour2="4288707517" isPluginParameter="1"
+                   pluginParameterName="lfo-sync1"/>
+        <Component type="ScriptLabel" id="LLAB1" x="54.00000000" y="6.00000000"
+                   parentComponent="lfo1" text="LFO" width="44.00000000" height="21.00000000"
+                   editable="0" saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptPanel" id="layerenvpanel1" x="111.00000000" y="128.00000000"
+                 parentComponent="layerpanel1" itemColour="4289567691" itemColour2="4289567691"
+                 width="94.00000000" height="193.00000000">
+        <Component type="ScriptLabel" id="LE1" x="16.00000000" y="-2.00000000" parentComponent="layerenvpanel1"
+                   text="Envelope" width="67.00000000" height="23.00000000" editable="0"
+                   saveInPreset="0"/>
+        <Component type="ScriptSlider" id="dl1" x="29.00000000" y="32.00000000"
+                   style="Vertical" dragDirection="Vertical" width="15.00000000"
+                   height="150.00000000" processorId="GROUP ENV" parameterId="Decay"
+                   mode="Time" middlePosition="1000.00000000" max="20000.00000000"
+                   stepSize="1.00000000" parentComponent="layerenvpanel1" bgColour="4283382379"
+                   itemColour="4288707517" itemColour2="4291211227" showValuePopup="Left"
+                   textColour="0" isPluginParameter="1" pluginParameterName="group-env-decay1"
+                   defaultValue="20000.00000000"/>
+        <Component type="ScriptSlider" id="sl1" x="49.00000000" y="32.00000000"
+                   style="Vertical" text="" dragDirection="Vertical" width="15.00000000"
+                   height="150.00000000" isMetaParameter="1" processorId="GROUP ENV"
+                   parameterId="Sustain" suffix="db" max="0.00000000" mode="Decibel"
+                   min="-100.00000000" stepSize="1.00000000" middlePosition="-18.00000000"
+                   parentComponent="layerenvpanel1" bgColour="4283382379" itemColour="4288707517"
+                   itemColour2="4291211227" textColour="0" isPluginParameter="1"
+                   pluginParameterName="group-env-sustain1"/>
+        <Component type="ScriptSlider" id="rl1" x="70.00000000" y="32.00000000"
+                   style="Vertical" text="" dragDirection="Horizontal" width="15.00000000"
+                   height="150.00000000" processorId="GROUP ENV" parameterId="Release"
+                   middlePosition="1000.00000000" mode="Time" stepSize="1.00000000"
+                   max="20000.00000000" isVertical="0" scaleFactor="8.00000000"
+                   parentComponent="layerenvpanel1" bgColour="4283382379" itemColour="4288707517"
+                   itemColour2="4291211227" textColour="0" isPluginParameter="1"
+                   pluginParameterName="group-env-release1"/>
+        <Component type="ScriptSlider" id="al1" x="9.00000000" y="32.00000000" style="Vertical"
+                   text="" dragDirection="Vertical" width="15.00000000" height="150.00000000"
+                   processorId="GROUP ENV" parameterId="Attack" max="20000.00000000"
+                   mode="Time" stepSize="1.00000000" middlePosition="1000.00000000"
+                   parentComponent="layerenvpanel1" bgColour="4283382379" itemColour="4288707517"
+                   itemColour2="4291211227" textColour="0" isPluginParameter="1"
+                   pluginParameterName="group-env-attack1"/>
+        <Component type="ScriptLabel" id="envLlable1" x="-17.00000000" y="11.00000000"
+                   parentComponent="layerenvpanel1" text="A    D    S    R" editable="0"
+                   saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptLabel" id="Label6111" x="45.00000000" y="-1.00000000"
+                 parentComponent="layerpanel1" text="LAYER" editable="0" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob49" x="156.00000000" y="67.00000000"
+                 parentComponent="layerpanel1" width="55.00000000" height="70.00000000"
+                 text="" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                 processorId="Velocity Modulator1" parameterId="Intensity"/>
+      <Component type="ScriptLabel" id="Label35" x="1.00000000" y="50.00000000"
+                 parentComponent="layerpanel1" text="lfo             env          track           vel"
+                 width="206.00000000" height="30.00000000" fontSize="12.00000000"
+                 editable="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="amppanel1" x="4.00000000" y="316.00000000"
+               parentComponent="wave1" itemColour="4283367509" itemColour2="4283367509"
+               width="112.00000000" height="245.00000000">
+      <Component type="ScriptSlider" id="ad2" x="38.00000000" y="44.00000000"
+                 style="Vertical" dragDirection="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV" parameterId="Decay"
+                 middlePosition="1000.00000000" max="20000.00000000" mode="Time"
+                 stepSize="1.00000000" text="*" parentComponent="amppanel1" bgColour="4283382379"
+                 itemColour="4288707517" itemColour2="4291211227" textColour="0"
+                 isPluginParameter="1" pluginParameterName="amp-env-decay" defaultValue="20000.00000000"/>
+      <Component type="ScriptSlider" id="as3" x="59.00000000" y="44.00000000"
+                 style="Vertical" dragDirection="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV" parameterId="Sustain"
+                 middlePosition="-18.00000000" mode="Decibel" min="-100.00000000"
+                 max="0.00000000" stepSize="0.10000000" suffix=" dB" text="" parentComponent="amppanel1"
+                 bgColour="4283382379" itemColour="4288707517" itemColour2="4291211227"
+                 textColour="0" isPluginParameter="1" pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="ar4" x="81.00000000" y="44.00000000"
+                 style="Vertical" dragDirection="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV" parameterId="Release"
+                 middlePosition="1000.00000000" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" text="" parentComponent="amppanel1"
+                 bgColour="4283382379" itemColour="4288707517" itemColour2="4291211227"
+                 textColour="0" isPluginParameter="1" pluginParameterName="amp-env-release"/>
+      <Component type="ScriptSlider" id="g1" x="11.00000000" y="194.00000000"
+                 text="gain" processorId="Sampler1" parameterId="Gain" width="99.00000000"
+                 height="51.00000000" parentComponent="amppanel1" bgColour="4285282689"
+                 itemColour="4285282689" itemColour2="4285282689" textColour="4293845472"
+                 isPluginParameter="1" pluginParameterName="gain1" max="0.50000000"/>
+      <Component type="ScriptSlider" id="a1" x="17.00000000" y="44.00000000" dragDirection="Vertical"
+                 width="15.00000000" height="110.00000000" text="" processorId="AMP ENV"
+                 parameterId="Attack" mode="Time" middlePosition="1000.00000000"
+                 style="Vertical" stepSize="1.00000000" parentComponent="amppanel1"
+                 bgColour="4283382379" itemColour="4288707517" itemColour2="4291211227"
+                 textColour="0" max="20000.00000000" suffix="ms" isPluginParameter="1"
+                 pluginParameterName="amp-env-attack"/>
+      <Component type="ScriptLabel" id="amplabel1" x="-6.00000000" y="1.00000000"
+                 parentComponent="amppanel1" text="AMP" editable="0" saveInPreset="0"/>
+      <Component type="ScriptLabel" id="Label11xxx1" x="-7.00000000" y="22.00000000"
+                 parentComponent="amppanel1" text="A    D    S    R" editable="0"
+                 pluginParameterName="stepper" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob43" x="11.00000000" y="153.00000000"
+                 parentComponent="amppanel1" width="100.00000000" height="50.00000000"
+                 text="pan" processorId="Sampler1" parameterId="Balance" bgColour="4285282689"
+                 itemColour="4285282689" itemColour2="4285282689" isPluginParameter="1"
+                 pluginParameterName="pan1" isMetaParameter="1" textColour="4285282689"
+                 min="-1.00000000" middlePosition="0.00000000"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel1" x="115.00000000" y="477.00000000"
+               parentComponent="wave1" itemColour="4292003550" itemColour2="4292003550"
+               width="92.00000000" height="84.00000000" bgColour="4292003550">
+      <Component type="ScriptLabel" id="Label22" x="-11.00000000" y="-3.00000000"
+                 parentComponent="Panel1" text="1" fontSize="80.00000000" width="121.00000000"
+                 height="90.00000000" textColour="4288413892" saveInPreset="0"
+                 editable="0"/>
+    </Component>
+  </Component>
+  <Component type="ScriptLabel" id="Label27" x="819.00000000" y="746.00000000"
+             text="2020 modularsamples.com" fontSize="16.00000000" width="199.00000000"
+             height="22.00000000" editable="0" saveInPreset="0"/>
+  <Component type="ScriptPanel" id="wave2" x="344.00000000" y="2.00000000"
+             height="569.00000000" width="332.00000000" itemColour="4292003550"
+             itemColour2="4292003550">
+    <Component type="ScriptPanel" id="Panel5" x="4.00000000" y="316.00000000"
+               itemColour="4283367509" itemColour2="4283367509" height="245.00000000"
+               width="112.00000000" parentComponent="wave2">
+      <Component type="ScriptSlider" id="Knob4" x="6.00000000" y="194.00000000"
+                 parentComponent="Panel5" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 processorId="Sampler2" parameterId="Gain" text="gain" isPluginParameter="1"
+                 pluginParameterName="gain" max="0.50000000"/>
+      <Component type="ScriptSlider" id="Knob5" x="83.00000000" y="44.00000000"
+                 parentComponent="Panel5" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV2" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Release" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="Knob6" x="60.00000000" y="44.00000000"
+                 parentComponent="Panel5" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV2" mode="Decibel" min="-100.00000000"
+                 max="0.00000000" stepSize="0.10000000" suffix=" dB" middlePosition="-18.00000000"
+                 parameterId="Sustain" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="Knob7" x="16.00000000" y="44.00000000"
+                 parentComponent="Panel5" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV2" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Attack" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="Knob8" x="38.00000000" y="44.00000000"
+                 parentComponent="Panel5" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV2" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Decay" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env" defaultValue="20000.00000000"/>
+      <Component type="ScriptLabel" id="Label13" x="-8.00000000" y="22.00000000"
+                 parentComponent="Panel5" text="A    D    S    R" editable="0"
+                 saveInPreset="0"/>
+      <Component type="ScriptLabel" id="Label17" x="-7.00000000" y="2.00000000"
+                 parentComponent="Panel5" text="AMP" editable="0" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob44" x="10.00000000" y="153.00000000"
+                 parentComponent="Panel5" processorId="Sampler2" parameterId="Balance"
+                 text="pan" itemColour="4285282689" bgColour="4285282689" itemColour2="4285282689"
+                 width="100.00000000" height="50.00000000" isPluginParameter="1"
+                 pluginParameterName="pan" min="-1.00000000" middlePosition="0.00000000"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel6" x="118.00000000" y="339.00000000"
+               itemColour="4283367509" itemColour2="4283367509" height="220.00000000"
+               width="210.00000000" parentComponent="wave2">
+      <Component type="ScriptSlider" id="Knob21" x="96.00000000" y="143.00000000"
+                 parentComponent="Panel6" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 stepSize="1.00000000" min="1.00000000" max="32.00000000" middlePosition="16.00000000"
+                 text="steps" processorId="s1apr2" parameterId="NumStepSlider"
+                 isPluginParameter="1" pluginParameterName="stepper"/>
+      <Component type="ScriptSliderPack" id="SliderPack2" x="11.00000000" y="32.00000000"
+                 parentComponent="Panel6" width="190.00000000" height="55.00000000"
+                 bgColour="4285410721" itemColour="4289691600" itemColour2="4291598835"
+                 processorId="s1apr2" defaultValue="16.00000000" SliderPackIndex="11"/>
+      <Component type="ScriptButton" id="Button2" x="11.00000000" y="94.00000000"
+                 parentComponent="Panel6" width="78.00000000" height="37.00000000"
+                 text="on/off" processorId="s1apr2" parameterId="Enabled" itemColour="4288707517"
+                 bgColour="4288707517" itemColour2="4288707517" isPluginParameter="1"
+                 pluginParameterName="stepper"/>
+      <Component type="ScriptSlider" id="Knob19" x="99.00000000" y="94.00000000"
+                 parentComponent="Panel6" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 processorId="s1apr2" parameterId="SpeedKnob" mode="TempoSync"
+                 max="18.00000000" stepSize="1.00000000" middlePosition="9.00000000"
+                 text="rate" isPluginParameter="1" pluginParameterName="stepper"/>
+      <Component type="ScriptLabel" id="Label19" x="48.00000000" y="2.00000000"
+                 parentComponent="Panel6" text="STEPPER" editable="0" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel4" x="3.00000000" y="77.00000000"
+               parentComponent="wave2" itemColour="4283367509" itemColour2="4283367509"
+               height="238.00000000" width="112.00000000">
+      <Component type="ScriptSlider" id="Knob1" x="3.00000000" y="34.00000000"
+                 parentComponent="Panel4" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" processorId="PITCH2"
+                 parameterId="Intensity" text="" min="-2.00000000" isPluginParameter="1"
+                 pluginParameterName="pitch2" textColour="0" max="2.00000000"
+                 stepSize="1.00000000" middlePosition="0.00000000"/>
+      <Component type="ScriptSlider" id="Knob2" x="2.00000000" y="103.00000000"
+                 parentComponent="Panel4" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" processorId="PITCH LFO2"
+                 text="lfo" parameterId="Frequency" isPluginParameter="1" pluginParameterName="pitch-lfo2"
+                 showTextBox="0" textColour="0"/>
+      <Component type="ScriptSlider" id="Knob3" x="51.00000000" y="103.00000000"
+                 parentComponent="Panel4" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" processorId="PITCH LFO2"
+                 text="" parameterId="Frequency" middlePosition="20.00000000"
+                 max="40.00000000" isPluginParameter="1" pluginParameterName="pitch-lfo-speed2"
+                 textColour="0"/>
+      <Component type="ScriptSlider" id="Knob51" x="1.00000000" y="175.00000000"
+                 parentComponent="Panel4" width="55.00000000" height="70.00000000"
+                 itemColour="0" itemColour2="0" bgColour="0" textColour="0" processorId="pitchenv2"
+                 parameterId="Intensity" text="" isPluginParameter="1" pluginParameterName="pitch-env2"/>
+      <Component type="ScriptSlider" id="Knob56" x="71.00000000" y="186.00000000"
+                 parentComponent="Panel4" width="15.00000000" height="45.00000000"
+                 itemColour="4285612948" itemColour2="0" bgColour="4291598835"
+                 textColour="0" text="" processorId="pitchenv2" parameterId="Decay"
+                 max="20000.00000000" stepSize="1.00000000" middlePosition="1000.00000000"
+                 isPluginParameter="1" pluginParameterName="pitch-env-decay2"
+                 mode="Time" style="Vertical"/>
+      <Component type="ScriptLabel" id="Label8" x="-7.00000000" y="1.00000000"
+                 parentComponent="Panel4" text="PITCH" editable="0" saveInPreset="0"
+                 width="63.00000000" height="21.00000000"/>
+      <Component type="ScriptButton" id="Button6" x="49.00000000" y="0.00000000"
+                 parentComponent="Panel4" width="60.00000000" height="20.00000000"
+                 text="track" processorId="Sampler2" parameterId="PitchTracking"
+                 defaultValue="1.00000000"/>
+      <Component type="ScriptSlider" id="Knob47" x="52.00000000" y="34.00000000"
+                 parentComponent="Panel4" width="55.00000000" height="70.00000000"
+                 text="" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                 processorId="fine2" parameterId="Intensity" middlePosition="0.20000000"
+                 max="0.41999999"/>
+      <Component type="ScriptLabel" id="Label29" x="-15.00000000" y="24.00000000"
+                 parentComponent="Panel4" text="course         fine" fontName="Arial Rounded MT Bold"
+                 fontSize="12.00000000" editable="0" bgColour="4287977648" height="14.00000000"
+                 width="128.00000000" textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label30" x="-8.00000000" y="93.00000000"
+                 parentComponent="Panel4" text="lfo           speed" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0" bgColour="4287977648"
+                 height="14.00000000" width="128.00000000" textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label31" x="-8.00000000" y="164.00000000"
+                 parentComponent="Panel4" text="env            decay" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0" bgColour="4287977648"
+                 height="14.00000000" width="128.00000000" textColour="4292195293"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel3" x="2.00000000" y="1.00000000"
+               parentComponent="wave2" itemColour="4283367509" itemColour2="4283367509"
+               width="112.00000000" height="76.00000000">
+      <Component type="ScriptComboBox" id="cmbSampleMap2" x="10.00000000" y="26.00000000"
+                 max="19" parentComponent="Panel3" width="90.00000000" height="32.00000000"
+                 itemColour="4292003550" itemColour2="4292003550" textColour="4278190080"
+                 text="wave" items="FM-SYS101-A&#10;FM-SYS101-B&#10;FM-SYS101-C&#10;MISC-SYS101-OX&#10;MISC-SYS101-VOX&#10;NOISE-SYS101-PINK&#10;NOISE-SYS101-WHITE&#10;SAW-SYS101-HIRES&#10;SAW-SYS101-MIDRES&#10;SAW-SYS101-VERYHIRES&#10;SQUARE-SYS101-DETUNE&#10;SQUARE-SYS101-HIRES&#10;SQUARE-SYS101-MIDRES&#10;SQUARE-SYS101-NORES&#10;SQUARE-SYS101-PW&#10;SQUARE-SYS101-PWM&#10;TRI-SYS101-HIRES&#10;TRI-SYS101-MIDRES&#10;TRI-SYS101-NORES"
+                 isPluginParameter="1" pluginParameterName="wave" processorId="Sampler2"/>
+      <Component type="ScriptLabel" id="Label3" x="-7.00000000" y="2.00000000"
+                 parentComponent="Panel3" text="WAVE 2" editable="0" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel2" x="116.00000000" y="0.00000000"
+               parentComponent="wave2" itemColour="4283367509" itemColour2="4283367509"
+               width="210.00000000" height="333.00000000">
+      <Component type="ScriptPanel" id="Panel7" x="5.00000000" y="128.00000000"
+                 parentComponent="Panel2" itemColour="4289567691" itemColour2="4289567691"
+                 height="190.00000000" width="101.00000000">
+        <Component type="ScriptComboBox" id="ComboBox2" x="6.00000000" y="6.00000000"
+                   max="5" parentComponent="Panel7" width="50.00000000" height="22.00000000"
+                   bgColour="4288707517" itemColour="4288707517" itemColour2="4288707517"
+                   text="LFO Wave" processorId="GROUP LFO2" items="Sine&#10;Triangle&#10;Saw&#10;Square&#10;Random"
+                   parameterId="WaveFormType" isPluginParameter="1" pluginParameterName="lfo-"/>
+        <Component type="ScriptSlider" id="Knob13" x="0.00000000" y="26.00000000"
+                   parentComponent="Panel7" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   processorId="GROUP LFO2" text="speed" parameterId="Frequency"
+                   max="40.00000000" middlePosition="10.00000000" isPluginParameter="1"
+                   pluginParameterName="lfo-" min="0.10000000"/>
+        <Component type="ScriptSlider" id="Knob14" x="2.00000000" y="69.00000000"
+                   parentComponent="Panel7" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   processorId="GROUP LFO2" text="delay" parameterId="FadeIn" mode="Time"
+                   max="3000.00000000" stepSize="1.00000000" suffix=" ms" middlePosition="500.00000000"
+                   isPluginParameter="1" pluginParameterName="lfo-"/>
+        <Component type="ScriptSlider" id="Knob15" x="3.00000000" y="112.00000000"
+                   parentComponent="Panel7" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   processorId="GROUP LFO2" parameterId="SmoothingTime" max="1000.00000000"
+                   middlePosition="100.00000000" text="smooth" isPluginParameter="1"
+                   pluginParameterName="lfo-"/>
+        <Component type="ScriptButton" id="Button1" x="48.00000000" y="158.00000000"
+                   parentComponent="Panel7" width="60.00000000" height="25.00000000"
+                   processorId="GROUP LFO2" text="sync" parameterId="TempoSync"
+                   bgColour="4288707517" itemColour="4288707517" itemColour2="4288707517"
+                   isPluginParameter="1" pluginParameterName="lfo-"/>
+        <Component type="ScriptLabel" id="Label9" x="52.00000000" y="6.00000000"
+                   parentComponent="Panel7" text="LFO" width="62.00000000" height="24.00000000"
+                   editable="0" saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptPanel" id="Panel8" x="110.00000000" y="128.00000000"
+                 parentComponent="Panel2" itemColour="4289567691" itemColour2="4289567691"
+                 height="190.00000000" width="94.00000000">
+        <Component type="ScriptSlider" id="Knob16" x="9.00000000" y="32.00000000"
+                   parentComponent="Panel8" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV2" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Attack" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-"/>
+        <Component type="ScriptSlider" id="Knob17" x="29.00000000" y="32.00000000"
+                   parentComponent="Panel8" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV2" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Decay" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-" defaultValue="20000.00000000"/>
+        <Component type="ScriptSlider" id="Knob18" x="50.00000000" y="32.00000000"
+                   parentComponent="Panel8" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV2" mode="Decibel" max="0.00000000"
+                   stepSize="0.10000000" suffix=" dB" middlePosition="-18.00000000"
+                   min="-100.00000000" parameterId="Sustain" bgColour="4283382379"
+                   itemColour="4288707517" textColour="0" itemColour2="4291211227"
+                   isPluginParameter="1" pluginParameterName="group-env-"/>
+        <Component type="ScriptSlider" id="Knob20" x="70.00000000" y="32.00000000"
+                   parentComponent="Panel8" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV2" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Release" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-"/>
+        <Component type="ScriptLabel" id="Label10" x="-13.00000000" y="-2.00000000"
+                   parentComponent="Panel8" text="Envelope" editable="0" saveInPreset="0"/>
+        <Component type="ScriptLabel" id="Label11" x="-17.00000000" y="11.00000000"
+                   parentComponent="Panel8" text="A    D    S    R" editable="0"
+                   saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptSlider" id="Knob9" x="1.00000000" y="12.00000000"
+                 parentComponent="Panel2" width="202.00000000" height="44.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 text="layer position" processorId="GROUP LAYER2" parameterId="MacroValue"
+                 isPluginParameter="1" pluginParameterName="layer-position" defaultValue="1.00000000"/>
+      <Component type="ScriptSlider" id="Knob10" x="97.00000000" y="67.00000000"
+                 parentComponent="Panel2" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="GROUP TRACK2"
+                 isPluginParameter="1" pluginParameterName="group-tracking" textColour="0"
+                 parameterId="Intensity"/>
+      <Component type="ScriptSlider" id="Knob11" x="1.00000000" y="67.00000000"
+                 parentComponent="Panel2" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="GROUP LFO2"
+                 parameterId="Intensity" isPluginParameter="1" pluginParameterName="group-lfo-amount"
+                 textColour="0"/>
+      <Component type="ScriptSlider" id="Knob12" x="46.00000000" y="67.00000000"
+                 parentComponent="Panel2" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="GROUP ENV2"
+                 parameterId="Intensity" isPluginParameter="1" pluginParameterName="group-env-amount"
+                 textColour="0"/>
+      <Component type="ScriptLabel" id="Label4" x="44.00000000" y="-1.00000000"
+                 parentComponent="Panel2" text="LAYER" editable="0" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob50" x="147.00000000" y="67.00000000"
+                 parentComponent="Panel2" width="55.00000000" height="70.00000000"
+                 text="" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                 processorId="Velocity Modulator2" parameterId="Intensity"/>
+      <Component type="ScriptLabel" id="Label36" x="-5.00000000" y="50.00000000"
+                 parentComponent="Panel2" text="lfo           env            track          vel"
+                 fontSize="12.00000000" fontName="Arial Rounded MT Bold" width="207.00000000"
+                 height="30.00000000" editable="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel14" x="115.00000000" y="477.00000000"
+               parentComponent="wave2" bgColour="4292003550" itemColour="4292003550"
+               itemColour2="4292003550" width="92.00000000" height="84.00000000">
+      <Component type="ScriptLabel" id="Label23" x="-21.00000000" y="9.00000000"
+                 parentComponent="Panel14" text="2" fontSize="80.00000000" width="140.00000000"
+                 height="67.00000000" textColour="4287840416" saveInPreset="0"
+                 editable="0"/>
+    </Component>
+  </Component>
+  <Component type="ScriptPanel" id="wave3" x="682.00000000" y="2.00000000"
+             height="566.00000000" width="333.00000000" itemColour="4292003550"
+             itemColour2="4292003550">
+    <Component type="ScriptPanel" id="Panel13" x="6.00000000" y="316.00000000"
+               itemColour="4283367509" itemColour2="4283367509" height="245.00000000"
+               width="112.00000000" parentComponent="wave3">
+      <Component type="ScriptSlider" id="Knob36" x="3.00000000" y="194.00000000"
+                 parentComponent="Panel13" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 text="gain" processorId="Sampler3" parameterId="Gain" isPluginParameter="1"
+                 pluginParameterName="gain" max="0.50000000"/>
+      <Component type="ScriptSlider" id="Knob37" x="16.00000000" y="44.00000000"
+                 parentComponent="Panel13" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV3" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Attack" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="Knob38" x="38.00000000" y="44.00000000"
+                 parentComponent="Panel13" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV3" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Decay" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env" defaultValue="20000.00000000"/>
+      <Component type="ScriptSlider" id="Knob39" x="60.00000000" y="44.00000000"
+                 parentComponent="Panel13" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV3" mode="Decibel" max="0.00000000"
+                 stepSize="0.10000000" suffix=" dB" middlePosition="-18.00000000"
+                 min="-100.00000000" parameterId="Sustain" bgColour="4283382379"
+                 itemColour="4288707517" textColour="0" itemColour2="4291211227"
+                 isPluginParameter="1" pluginParameterName="amp-env"/>
+      <Component type="ScriptSlider" id="Knob40" x="82.00000000" y="44.00000000"
+                 parentComponent="Panel13" style="Vertical" width="15.00000000"
+                 height="110.00000000" processorId="AMP ENV3" mode="Time" max="20000.00000000"
+                 stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                 parameterId="Release" bgColour="4283382379" itemColour="4288707517"
+                 textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                 pluginParameterName="amp-env"/>
+      <Component type="ScriptLabel" id="Label14" x="-8.00000000" y="22.00000000"
+                 parentComponent="Panel13" text="A    D    S    R" editable="0"
+                 saveInPreset="0"/>
+      <Component type="ScriptLabel" id="Label18" x="-2.00000000" y="2.00000000"
+                 parentComponent="Panel13" text="AMP" editable="0" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob45" x="9.00000000" y="153.00000000"
+                 parentComponent="Panel13" text="pan" processorId="Sampler3" parameterId="Balance"
+                 itemColour="4285282689" bgColour="4285282689" itemColour2="4285282689"
+                 width="100.00000000" height="50.00000000" isPluginParameter="1"
+                 pluginParameterName="pan" min="-1.00000000" middlePosition="0.00000000"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel9" x="5.00000000" y="1.00000000"
+               parentComponent="wave3" itemColour="4283367509" itemColour2="4283367509"
+               height="76.00000000" width="112.00000000">
+      <Component type="ScriptComboBox" id="cmbSampleMap3" x="10.00000000" y="26.00000000"
+                 max="19" width="90.00000000" height="32.00000000" itemColour="4292003550"
+                 itemColour2="4292003550" textColour="4278190080" text="wave"
+                 items="FM-SYS101-A&#10;FM-SYS101-B&#10;FM-SYS101-C&#10;MISC-SYS101-OX&#10;MISC-SYS101-VOX&#10;NOISE-SYS101-PINK&#10;NOISE-SYS101-WHITE&#10;SAW-SYS101-HIRES&#10;SAW-SYS101-MIDRES&#10;SAW-SYS101-VERYHIRES&#10;SQUARE-SYS101-DETUNE&#10;SQUARE-SYS101-HIRES&#10;SQUARE-SYS101-MIDRES&#10;SQUARE-SYS101-NORES&#10;SQUARE-SYS101-PW&#10;SQUARE-SYS101-PWM&#10;TRI-SYS101-HIRES&#10;TRI-SYS101-MIDRES&#10;TRI-SYS101-NORES"
+                 parentComponent="Panel9" isPluginParameter="1" pluginParameterName="wave"/>
+      <Component type="ScriptLabel" id="Label5" x="-8.00000000" y="1.00000000"
+                 parentComponent="Panel9" text="WAVE 3" editable="0" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel10" x="120.00000000" y="1.00000000"
+               parentComponent="wave3" itemColour="4283367509" itemColour2="4283367509"
+               height="333.00000000" width="210.00000000">
+      <Component type="ScriptSlider" id="Knob24" x="5.00000000" y="13.00000000"
+                 parentComponent="Panel10" width="202.00000000" height="44.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 processorId="GROUP LAYER3" parameterId="MacroValue" text="layer position"
+                 isPluginParameter="1" pluginParameterName="layer-position" defaultValue="1.00000000"/>
+      <Component type="ScriptPanel" id="Panel16" x="6.00000000" y="128.00000000"
+                 parentComponent="Panel10" itemColour="4289567691" itemColour2="4289567691"
+                 width="101.00000000" height="190.00000000">
+        <Component type="ScriptComboBox" id="ComboBox4" x="11.00000000" y="6.00000000"
+                   max="5" parentComponent="Panel16" width="50.00000000" height="22.00000000"
+                   bgColour="4288707517" itemColour="4288707517" itemColour2="4288707517"
+                   text="LFO Wave" isPluginParameter="1" pluginParameterName="lfo-"
+                   processorId="GROUP LFO3" parameterId="WaveFormType" items="Sine&#10;Triangle&#10;Saw&#10;Square&#10;Random"/>
+        <Component type="ScriptSlider" id="Knob26" x="-5.00000000" y="26.00000000"
+                   parentComponent="Panel16" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   text="speed" processorId="GROUP LFO3" parameterId="Frequency"
+                   max="40.00000000" middlePosition="10.00000000" isPluginParameter="1"
+                   pluginParameterName="lfo-" min="0.10000000"/>
+        <Component type="ScriptSlider" id="Knob27" x="-5.00000000" y="69.00000000"
+                   parentComponent="Panel16" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   text="delay" max="3000.00000000" middlePosition="500.00000000"
+                   processorId="GROUP LFO3" parameterId="FadeIn" isPluginParameter="1"
+                   pluginParameterName="lfo-"/>
+        <Component type="ScriptSlider" id="Knob28" x="-5.00000000" y="112.00000000"
+                   parentComponent="Panel16" width="105.00000000" height="50.00000000"
+                   bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                   text="smooth" max="1000.00000000" middlePosition="100.00000000"
+                   processorId="GROUP LFO3" parameterId="SmoothingTime" isPluginParameter="1"
+                   pluginParameterName="lfo-"/>
+        <Component type="ScriptButton" id="Button3" x="42.00000000" y="161.00000000"
+                   parentComponent="Panel16" width="60.00000000" height="25.00000000"
+                   text="sync" processorId="GROUP LFO3" parameterId="TempoSync"
+                   bgColour="4288707517" itemColour="4288707517" itemColour2="4288707517"
+                   isPluginParameter="1" pluginParameterName="lfo-"/>
+        <Component type="ScriptLabel" id="Label15" x="58.00000000" y="6.00000000"
+                   parentComponent="Panel16" width="46.00000000" height="27.00000000"
+                   text="LFO" editable="0" saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptPanel" id="Panel15" x="111.00000000" y="128.00000000"
+                 parentComponent="Panel10" width="94.00000000" height="190.00000000"
+                 itemColour="4289567691" itemColour2="4289567691">
+        <Component type="ScriptSlider" id="Knob29" x="4.00000000" y="32.00000000"
+                   parentComponent="Panel15" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV3" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Attack" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-"/>
+        <Component type="ScriptSlider" id="Knob30" x="25.00000000" y="32.00000000"
+                   parentComponent="Panel15" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV3" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Decay" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-" defaultValue="20000.00000000"/>
+        <Component type="ScriptSlider" id="Knob31" x="47.00000000" y="31.00000000"
+                   parentComponent="Panel15" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV3" mode="Decibel" max="0.00000000"
+                   stepSize="0.10000000" suffix=" dB" middlePosition="-18.00000000"
+                   parameterId="Sustain" min="-100.00000000" bgColour="4283382379"
+                   itemColour="4288707517" textColour="0" itemColour2="4291211227"
+                   isPluginParameter="1" pluginParameterName="group-env-"/>
+        <Component type="ScriptSlider" id="Knob32" x="69.00000000" y="31.00000000"
+                   parentComponent="Panel15" width="15.00000000" height="150.00000000"
+                   style="Vertical" processorId="GROUP ENV3" mode="Time" max="20000.00000000"
+                   stepSize="1.00000000" suffix=" ms" middlePosition="1000.00000000"
+                   parameterId="Release" bgColour="4283382379" itemColour="4288707517"
+                   textColour="0" itemColour2="4291211227" isPluginParameter="1"
+                   pluginParameterName="group-env-"/>
+        <Component type="ScriptLabel" id="Label12" x="-19.00000000" y="11.00000000"
+                   parentComponent="Panel15" text="A    D    S    R" editable="0"
+                   saveInPreset="0"/>
+        <Component type="ScriptLabel" id="Label16" x="-16.00000000" y="-5.00000000"
+                   parentComponent="Panel15" text="Envelope" editable="0" saveInPreset="0"/>
+      </Component>
+      <Component type="ScriptSlider" id="Knob23" x="105.00000000" y="66.00000000"
+                 parentComponent="Panel10" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="GROUP TRACK3"
+                 parameterId="Intensity" isPluginParameter="1" pluginParameterName="group-tracking"
+                 textColour="0"/>
+      <Component type="ScriptSlider" id="Knob22" x="55.00000000" y="66.00000000"
+                 parentComponent="Panel10" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" processorId="GROUP ENV3"
+                 parameterId="Intensity" text="" isPluginParameter="1" pluginParameterName="group-env-amount"
+                 textColour="0"/>
+      <Component type="ScriptSlider" id="Knob25" x="6.00000000" y="66.00000000"
+                 parentComponent="Panel10" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="GROUP LFO3"
+                 parameterId="Intensity" isPluginParameter="1" pluginParameterName="group-lfo-amount"
+                 textColour="0"/>
+      <Component type="ScriptLabel" id="Label6" x="41.00000000" y="-1.00000000"
+                 parentComponent="Panel10" text="LAYER" editable="0" saveInPreset="0"/>
+      <Component type="ScriptSlider" id="Knob52" x="154.00000000" y="66.00000000"
+                 parentComponent="Panel10" width="55.00000000" height="70.00000000"
+                 text="" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                 processorId="Velocity Modulator3" parameterId="Intensity"/>
+      <Component type="ScriptLabel" id="Label37" x="25.00000000" y="-50.00000000"
+                 parentComponent="Panel10" text="lfo             env          track           vel"
+                 fontSize="12.00000000" fontName="Arial Rounded MT Bold"/>
+      <Component type="ScriptLabel" id="Label38" x="-10.00000000" y="50.00000000"
+                 parentComponent="Panel10" text="lfo             env           track           vel"
+                 width="229.00000000" height="30.00000000" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel11" x="3.00000000" y="78.00000000"
+               parentComponent="wave3" itemColour="4283367509" itemColour2="4283367509"
+               height="238.00000000" width="112.00000000">
+      <Component type="ScriptSlider" id="Knob33" x="5.00000000" y="35.00000000"
+                 parentComponent="Panel11" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="PITCH3"
+                 parameterId="Intensity" min="-2.00000000" middlePosition="0.00000000"
+                 isPluginParameter="1" pluginParameterName="pitch3" textColour="0"
+                 max="2.00000000" stepSize="1.00000000"/>
+      <Component type="ScriptSlider" id="Knob34" x="55.00000000" y="103.00000000"
+                 parentComponent="Panel11" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" middlePosition="20.25000000"
+                 max="40.00000000" min="0.50000000" text="" processorId="PITCH LFO3"
+                 parameterId="Frequency" isPluginParameter="1" isMetaParameter="1"
+                 pluginParameterName="pitch-lfo-speed3" textColour="0"/>
+      <Component type="ScriptSlider" id="Knob35" x="4.00000000" y="103.00000000"
+                 parentComponent="Panel11" width="55.00000000" height="70.00000000"
+                 bgColour="0" itemColour="0" itemColour2="0" text="" processorId="PITCH LFO3"
+                 parameterId="Intensity" isPluginParameter="1" pluginParameterName="pitch-lfo3"
+                 textColour="0"/>
+      <Component type="ScriptSlider" id="Knob57" x="3.00000000" y="175.00000000"
+                 parentComponent="Panel11" width="55.00000000" height="70.00000000"
+                 itemColour="0" itemColour2="0" bgColour="0" textColour="0" text=""
+                 processorId="pitchenv3" parameterId="Intensity" isPluginParameter="1"
+                 pluginParameterName="pitch-env3" middlePosition="0.50000000"/>
+      <Component type="ScriptSlider" id="Knob58" x="71.00000000" y="186.00000000"
+                 parentComponent="Panel11" width="15.00000000" height="45.00000000"
+                 itemColour="4285612948" itemColour2="0" bgColour="4291598835"
+                 textColour="0" text="" processorId="pitchenv3" parameterId="Decay"
+                 max="20000.00000000" stepSize="1.00000000" middlePosition="1000.00000000"
+                 isPluginParameter="1" pluginParameterName="pitch-env-decay3"
+                 mode="Time" style="Vertical"/>
+      <Component type="ScriptLabel" id="Label7" x="-38.00000000" y="-2.00000000"
+                 parentComponent="Panel11" text="PITCH" editable="0" saveInPreset="0"/>
+      <Component type="ScriptButton" id="Button7" x="54.00000000" y="1.00000000"
+                 parentComponent="Panel11" width="60.00000000" height="20.00000000"
+                 text="track" processorId="Sampler3" parameterId="PitchTracking"
+                 defaultValue="1.00000000"/>
+      <Component type="ScriptSlider" id="Knob48" x="55.00000000" y="35.00000000"
+                 parentComponent="Panel11" width="55.00000000" height="70.00000000"
+                 text="" bgColour="0" itemColour="0" itemColour2="0" textColour="0"
+                 max="0.41999999" middlePosition="0.20000000" processorId="fine3"
+                 parameterId="Intensity"/>
+      <Component type="ScriptLabel" id="Label32" x="-8.00000000" y="164.00000000"
+                 parentComponent="Panel11" text="env           decay" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0" bgColour="4287977648"
+                 height="14.00000000" width="128.00000000" textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label33" x="-6.00000000" y="93.00000000"
+                 parentComponent="Panel11" text="lfo           speed" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0" bgColour="4287977648"
+                 height="14.00000000" width="128.00000000" textColour="4292195293"/>
+      <Component type="ScriptLabel" id="Label34" x="-13.00000000" y="26.00000000"
+                 parentComponent="Panel11" text="course         fine" fontSize="12.00000000"
+                 fontName="Arial Rounded MT Bold" editable="0" bgColour="4287977648"
+                 height="14.00000000" width="128.00000000" textColour="4292195293"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel12" x="120.00000000" y="339.00000000"
+               parentComponent="wave3" itemColour="4283367509" itemColour2="4283367509"
+               height="220.00000000" width="210.00000000">
+      <Component type="ScriptSliderPack" id="SliderPack3" x="11.00000000" y="32.00000000"
+                 parentComponent="Panel12" width="190.00000000" height="55.00000000"
+                 processorId="s1apr3" defaultValue="16.00000000" SliderPackIndex="11"
+                 bgColour="4285410721" itemColour="4289691600" textColour="4291598835"
+                 itemColour2="4291598835"/>
+      <Component type="ScriptSlider" id="Knob41" x="94.00000000" y="94.00000000"
+                 parentComponent="Panel12" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 text="rate" processorId="s1apr3" parameterId="SpeedKnob" mode="TempoSync"
+                 max="18.00000000" stepSize="1.00000000" middlePosition="9.00000000"
+                 isPluginParameter="1" pluginParameterName="stepper"/>
+      <Component type="ScriptSlider" id="Knob42" x="92.00000000" y="143.00000000"
+                 parentComponent="Panel12" width="105.00000000" height="50.00000000"
+                 bgColour="4285282689" itemColour="4285282689" itemColour2="4285282689"
+                 text="steps" processorId="s1apr3" parameterId="NumStepSlider"
+                 max="32.00000000" stepSize="1.00000000" min="1.00000000" middlePosition="16.00000000"
+                 isPluginParameter="1" pluginParameterName="stepper"/>
+      <Component type="ScriptButton" id="Button4" x="10.00000000" y="94.00000000"
+                 parentComponent="Panel12" width="78.00000000" height="37.00000000"
+                 itemColour="4288707517" bgColour="4288707517" itemColour2="4288707517"
+                 processorId="s1apr3" parameterId="Enabled" text="on/off" isPluginParameter="1"
+                 pluginParameterName="stepper"/>
+      <Component type="ScriptLabel" id="Label20" x="49.00000000" y="3.00000000"
+                 parentComponent="Panel12" text="STEPPER" editable="0" saveInPreset="0"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel17" x="117.00000000" y="477.00000000"
+               parentComponent="wave3" itemColour="4292003550" bgColour="4292003550"
+               itemColour2="4292003550" width="92.00000000" height="84.00000000">
+      <Component type="ScriptLabel" id="Label24" x="10.00000000" y="7.00000000"
+                 parentComponent="Panel17" text="3" textColour="4285602158" fontSize="80.00000000"
+                 width="76.00000000" height="68.00000000" saveInPreset="0" editable="0"/>
+    </Component>
+  </Component>
+  <Component type="ScriptPanel" id="master" x="344.00000000" y="578.00000000"
+             width="674.00000000" height="160.00000000" itemColour="4292003550"
+             itemColour2="4292003550">
+    <Component type="ScriptLabel" id="Label26" x="615.00000000" y="88.00000000"
+               parentComponent="master" text="v0.4-alpha" width="46.00000000"
+               height="53.00000000" textColour="4285410721" itemColour2="4285410721"
+               editable="0" saveInPreset="0"/>
+    <Component type="ScriptLabel" id="Label1" x="309.00000000" y="1.00000000"
+               parentComponent="master" text="Lilac" fontSize="160.00000000"
+               width="323.00000000" height="159.00000000" textColour="4283367509"
+               editable="0" saveInPreset="0"/>
+  </Component>
+  <Component type="ScriptPanel" id="Panel20" x="6.00000000" y="579.00000000"
+             width="333.00000000" height="160.00000000" itemColour="4292003550"
+             itemColour2="4292003550">
+    <Component type="ScriptFloatingTile" id="FloatingTile1" x="13.00000000"
+               y="11.00000000" parentComponent="Panel20" ContentType="PresetBrowser"
+               bgColour="4289567691" itemColour="4283367509" itemColour2="4283367509"
+               Data="{&#13;&#10;  &quot;ShowSaveButton&quot;: true,&#13;&#10;  &quot;ShowFolderButton&quot;: false,&#13;&#10;  &quot;ShowNotes&quot;: false,&#13;&#10;  &quot;ShowEditButtons&quot;: true,&#13;&#10;  &quot;ShowFavoriteIcon&quot;: false,&#13;&#10;  &quot;NumColumns&quot;: 1&#13;&#10;}"
+               width="306.00000000" height="137.00000000" itemColour3="4289567691"
+               textColour="4283367509"/>
+  </Component>
+</ContentProperties>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VolcaKeys/THICK5TH" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-16-EH14.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="451843" LoopEnd="1014802"
+          SampleStart="451843" MonolithOffset="0" MonolithLength="1605632"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-30-6K32.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="347122" LoopEnd="1162214"
+          SampleStart="347122" MonolithOffset="1605632" MonolithLength="1605632"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-48-X3FU.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="355128" LoopEnd="664677"
+          SampleStart="355128" MonolithOffset="3211264" MonolithLength="1613824"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-60-9FTB.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="275480" LoopEnd="731394"
+          SampleStart="275480" MonolithOffset="4825088" MonolithLength="1609728"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-78-0P74.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="911103" LoopEnd="1156434"
+          SampleStart="911103" MonolithOffset="6434816" MonolithLength="1605632"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-94-C94W.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="234894" LoopEnd="718116"
+          SampleStart="234894" MonolithOffset="8040448" MonolithLength="1609728"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-111-BOXL.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="724387" LoopEnd="1119706"
+          SampleStart="724387" MonolithOffset="9650176" MonolithLength="1609728"
+          SampleRate="96000.00000000"/>
+  <sample Root="60" LoKey="12" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Users/rick/Music/Audio Music Apps/Samples/Auto Sampled/THICK5TH-FILTER-HIRES/THICK5TH-FILTER-HIRES-C3-127-TSOV.aif"
+          Duplicate="1" LoopEnabled="1" LoopStart="347068" LoopEnd="796510"
+          SampleStart="347068" MonolithOffset="11259904" MonolithLength="1605632"
+          SampleRate="96000.00000000"/>
+</samplemap>
