@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="" RRGroupAmount="8.00000000" MicPositions=";">
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-16-EFK6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93720" LoopEnd="198121"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-32-GGKJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="92970" LoopEnd="197515"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-48-VR1G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93526" LoopEnd="197890"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-64-BSZW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="157224" LoopEnd="274989"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-79-4WJE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="127168" LoopEnd="244931"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-95-P0A9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="145400" LoopEnd="576503"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-111-7UB8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="145572" LoopEnd="407270"/>
+  <sample Root="38" LoKey="0" HiKey="43" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-38-127-32LG.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="110599" LoopEnd="584710"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-16-WJHJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93314" LoopEnd="198213"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-32-KPL7.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="92969" LoopEnd="198001"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-48-MOM7.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93882" LoopEnd="198926"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-64-XX2O.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="94326" LoopEnd="197264"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-79-403N.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="320682" LoopEnd="530587"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-95-2C6Z.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="150374" LoopEnd="611176"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-111-EMDQ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="350976" LoopEnd="497413"/>
+  <sample Root="44" LoKey="44" HiKey="49" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-44-127-YQIN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="356616" LoopEnd="491797"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-16-T31G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="217695" LoopEnd="361795"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-32-H95W.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="96993" LoopEnd="604887"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-48-N3TT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="118882" LoopEnd="575140"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-64-KH5I.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="471906" LoopEnd="610147"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-79-TISV.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="278622" LoopEnd="606881"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-95-W2YE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="109032" LoopEnd="256776"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-111-6WYN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="409949" LoopEnd="554044"/>
+  <sample Root="50" LoKey="50" HiKey="55" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-50-127-QT6V.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="225275" LoopEnd="593470"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-16-FNL8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93463" LoopEnd="197880"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-32-IW0U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="94261" LoopEnd="198755"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-48-KP3V.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="387404" LoopEnd="520868"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-64-KYZK.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="428081" LoopEnd="589188"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-79-T4QY.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="94221" LoopEnd="198699"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-95-L3PY.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="500631" LoopEnd="606127"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-111-ZYXT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="294164" LoopEnd="578836"/>
+  <sample Root="56" LoKey="56" HiKey="61" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-56-127-6W6S.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="253658" LoopEnd="555177"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-16-7YA3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="325686" LoopEnd="436583"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-32-LHSY.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="386159" LoopEnd="587500"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-48-XYMX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="215961" LoopEnd="334267"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-64-94S6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="270483" LoopEnd="422591"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-79-88T9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="217078" LoopEnd="344535"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-95-SAF7.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="456018" LoopEnd="607816"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-111-65R9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="195990" LoopEnd="610209"/>
+  <sample Root="62" LoKey="62" HiKey="67" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-62-127-JE53.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="160289" LoopEnd="602279"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-16-4VE5.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="140815" LoopEnd="517102"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-32-0SLW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="190728" LoopEnd="512493"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-48-Z6MO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="173323" LoopEnd="609239"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-64-A543.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="93892" LoopEnd="197264"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-79-OKQ8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="326736" LoopEnd="432648"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-95-7UB1.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="394025" LoopEnd="515037"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-111-LO4H.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="335191" LoopEnd="457245"/>
+  <sample Root="68" LoKey="68" HiKey="71" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-68-127-PRPT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="166179" LoopEnd="293177"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-16-FLDU.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="468180" LoopEnd="609374"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-32-15H9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="297520" LoopEnd="408454"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-48-TIVF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="336018" LoopEnd="460671"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-64-LRWK.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="407338" LoopEnd="531072"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-79-ASKM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="351069" LoopEnd="459222"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-95-520U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="144399" LoopEnd="255137"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-111-EWZT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="336553" LoopEnd="471503"/>
+  <sample Root="74" LoKey="72" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Samples/Lilac/Peach/Samples/XPCKSounds/Squares/PULSEBP4P/(201639 82819)/PULSEBP4P-72-127-FX93.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="97621" LoopEnd="227100"/>
+</samplemap>

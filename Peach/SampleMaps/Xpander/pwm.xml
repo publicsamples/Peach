@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/pwm" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-38-B93S.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="120283" LoopEnd="418273"
+          MonolithOffset="0" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-51-P9CF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="198556" LoopEnd="408463"
+          MonolithOffset="532480" MonolithLength="544768" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-64-8KGI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="42552" LoopEnd="342153"
+          MonolithOffset="1077248" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-76-YDHO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="162174" LoopEnd="250529"
+          MonolithOffset="1609728" MonolithLength="544768" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-89-7PBA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="355270" LoopEnd="444697"
+          MonolithOffset="2154496" MonolithLength="544768" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-102-VEUD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="232340" LoopEnd="442528"
+          MonolithOffset="2699264" MonolithLength="544768" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-114-CIAG.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="307498" LoopEnd="441113"
+          MonolithOffset="3244032" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="0" HiKey="72" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-66-127-U6R3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="284067" LoopEnd="383667"
+          MonolithOffset="3776512" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-38-C2WO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="74591" LoopEnd="252758"
+          MonolithOffset="4308992" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-51-8QDH.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="67853" LoopEnd="238516"
+          MonolithOffset="4841472" MonolithLength="593920" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-64-N2SD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="49093" LoopEnd="138983"
+          MonolithOffset="5435392" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-76-IP6K.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="178588" LoopEnd="433069"
+          MonolithOffset="5967872" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-89-1CV3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="224058" LoopEnd="440657"
+          MonolithOffset="6500352" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-102-FWL3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="57316" LoopEnd="140242"
+          MonolithOffset="7032832" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-114-M0RJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="270374" LoopEnd="358843"
+          MonolithOffset="7565312" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-73-127-7YA1.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="300270" LoopEnd="418572"
+          MonolithOffset="8097792" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-38-LPZB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="293800" LoopEnd="399348"
+          MonolithOffset="8630272" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-51-4FTW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="256146" LoopEnd="340704"
+          MonolithOffset="9162752" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-64-O91C.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="61338" LoopEnd="250253"
+          MonolithOffset="9695232" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-76-I6DR.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="206926" LoopEnd="329771"
+          MonolithOffset="10227712" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-89-Y5DI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="104920" LoopEnd="405958"
+          MonolithOffset="10760192" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-102-MRF2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="113052" LoopEnd="223380"
+          MonolithOffset="11292672" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-114-HTFC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="306298" LoopEnd="398738"
+          MonolithOffset="11825152" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-80-127-R1AX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="65101" LoopEnd="151925"
+          MonolithOffset="12357632" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-38-ZL0Z.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="227417" LoopEnd="324629"
+          MonolithOffset="12890112" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-51-A0DY.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="72412" LoopEnd="439847"
+          MonolithOffset="13422592" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-64-4F5T.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="50288" LoopEnd="441215"
+          MonolithOffset="13955072" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-76-91LN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="299660" LoopEnd="443214"
+          MonolithOffset="14487552" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-89-IIT9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="166624" LoopEnd="264319"
+          MonolithOffset="15020032" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-102-RIAN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="352838" LoopEnd="443928"
+          MonolithOffset="15552512" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-114-ET5X.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="239124" LoopEnd="337860"
+          MonolithOffset="16084992" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-87-127-BD96.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="153512" LoopEnd="265373"
+          MonolithOffset="16617472" MonolithLength="540672" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-38-RJA6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="119498" LoopEnd="432220"
+          MonolithOffset="17158144" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-51-CNSW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="175886" LoopEnd="344943"
+          MonolithOffset="17690624" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-64-3Z98.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="94778" LoopEnd="444735"
+          MonolithOffset="18223104" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-76-5SMC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="81798" LoopEnd="442860"
+          MonolithOffset="18755584" MonolithLength="532480" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-89-FTV2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="130594" LoopEnd="235601"
+          MonolithOffset="19288064" MonolithLength="540672" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-102-5TI7.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="86948" LoopEnd="171456"
+          MonolithOffset="19828736" MonolithLength="540672" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-114-W3IW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="149032" LoopEnd="253780"
+          MonolithOffset="20369408" MonolithLength="544768" SampleRate="44100.00000000"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="{PROJECT_FOLDER}pw 0-64/(2016331 3040)/xp-94-127-ID1Q.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="154382" LoopEnd="250407"
+          MonolithOffset="20914176" MonolithLength="532480" SampleRate="44100.00000000"/>
+</samplemap>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="System101/SQUARE-HIRES" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-16-GIUS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="274999" LoopEnd="364395"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="0" MonolithLength="471040"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-32-9FDJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="274948" LoopEnd="363006"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="462848"
+          MonolithOffset="471040" MonolithLength="462848"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-48-1XF2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="273070" LoopEnd="362462"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="933888" MonolithLength="471040"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-64-WBKE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="272046" LoopEnd="360108"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="462848"
+          MonolithOffset="1404928" MonolithLength="462848"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-79-BONN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="267182" LoopEnd="353909"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="475136"
+          MonolithOffset="1867776" MonolithLength="475136"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-95-FUKD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="272947" LoopEnd="362340"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="479232"
+          MonolithOffset="2342912" MonolithLength="479232"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-111-FK7A.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="275187" LoopEnd="363243"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="2822144" MonolithLength="466944"/>
+  <sample Root="24" LoKey="0" HiKey="35" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C0-127-ITNB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="274183" LoopEnd="362241"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="3289088" MonolithLength="471040"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-16-GGJ6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="286344" LoopEnd="362803"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="3760128" MonolithLength="466944"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-32-DGPI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="287671" LoopEnd="364134"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="4227072" MonolithLength="466944"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-48-CBZP.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="287731" LoopEnd="363525"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="4694016" MonolithLength="466944"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-64-C1AF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="283690" LoopEnd="361496"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="462848"
+          MonolithOffset="5160960" MonolithLength="462848"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-79-4TTC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="278954" LoopEnd="354746"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="475136"
+          MonolithOffset="5623808" MonolithLength="475136"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-95-IFQS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="284711" LoopEnd="363186"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="6098944" MonolithLength="466944"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-111-UPJ6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="290549" LoopEnd="362985"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="6565888" MonolithLength="471040"/>
+  <sample Root="36" LoKey="36" HiKey="52" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C1-127-9P4Y.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="289516" LoopEnd="362624"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="7036928" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-16-WJME.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="17957" LoopEnd="180170"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="7503872" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-32-G00O.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="290713" LoopEnd="364335"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="475136"
+          MonolithOffset="7970816" MonolithLength="475136"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-48-F07G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="287664" LoopEnd="363639"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="8445952" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-64-N73G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="288676" LoopEnd="362469"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="8912896" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-79-VG89.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="282290" LoopEnd="363138"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="9379840" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-95-QIEB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="277604" LoopEnd="358788"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="475136"
+          MonolithOffset="9846784" MonolithLength="475136"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-111-389W.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="280626" LoopEnd="363326"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="10321920" MonolithLength="466944"/>
+  <sample Root="60" LoKey="53" HiKey="71" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C3-127-TL05.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="276097" LoopEnd="356440"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="10788864" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-16-F0BV.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="211092" LoopEnd="284229"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="471040"
+          MonolithOffset="11255808" MonolithLength="471040"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-32-ZC7M.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="290321" LoopEnd="363712"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="11726848" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-48-PH55.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="284368" LoopEnd="358344"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="12193792" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-64-Z6XF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="290463" LoopEnd="363604"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="12660736" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-79-DC52.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="5233" LoopEnd="88883"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="13127680" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-95-FZEJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="275476" LoopEnd="358283"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="475136"
+          MonolithOffset="13594624" MonolithLength="475136"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-111-PB51.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="270890" LoopEnd="353279"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="14069760" MonolithLength="466944"/>
+  <sample Root="72" LoKey="72" HiKey="83" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C4-127-UW08.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="253823" LoopEnd="334359"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="14536704" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-16-WC9K.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="209388" LoopEnd="361545"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="15003648" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-32-7DOI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="290502" LoopEnd="363178"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="15470592" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-48-EUME.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="289608" LoopEnd="362702"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="15937536" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-64-K6WO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="288048" LoopEnd="363371"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="479232"
+          MonolithOffset="16404480" MonolithLength="479232"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-79-PZMH.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="63868" LoopEnd="145288"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="16883712" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-95-MXLW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="281167" LoopEnd="363217"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="17350656" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-111-8MMF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="267054" LoopEnd="350067"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="17817600" MonolithLength="466944"/>
+  <sample Root="84" LoKey="84" HiKey="95" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C5-127-4A95.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="238542" LoopEnd="320416"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="18284544" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-16-HKDM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="269520" LoopEnd="358922"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="18751488" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-32-GNOI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="245976" LoopEnd="337147"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="19218432" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-48-U63A.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="281531" LoopEnd="361808"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="19685376" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-64-F1RW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="274359" LoopEnd="353649"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="20152320" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-79-L98V.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="283585" LoopEnd="364266"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="20619264" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-95-ZVDE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="47674" LoopEnd="128016"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="21086208" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-111-IW3G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="262955" LoopEnd="342829"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="21553152" MonolithLength="466944"/>
+  <sample Root="96" LoKey="96" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Squares/sys101 High Res Square/(20161024 23048)/sys-C6-127-F6Z2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="283385" LoopEnd="364308"
+          SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="22020096" MonolithLength="466944"/>
+</samplemap>

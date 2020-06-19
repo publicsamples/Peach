@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/FM1" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-38-XPF3.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="327241" LoopEnd="432716"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="0" MonolithLength="540672"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-51-E64Q.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="137130" LoopEnd="242603"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="540672"
+          MonolithLength="536576"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-64-3BQ9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="322897" LoopEnd="428371"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="1077248"
+          MonolithLength="540672"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-76-ZFJM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="50835" LoopEnd="156307"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="1617920"
+          MonolithLength="540672"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-89-YT41.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="185899" LoopEnd="291371"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="2158592"
+          MonolithLength="536576"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-102-LE3A.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="128120" LoopEnd="233587"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="2695168"
+          MonolithLength="536576"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-114-DSKM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="91165" LoopEnd="433177"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="3231744"
+          MonolithLength="532480"/>
+  <sample Root="38" LoKey="0" HiKey="44" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-38-127-O9X2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="136069" LoopEnd="406384"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="3764224"
+          MonolithLength="540672"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-38-85L0.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="325563" LoopEnd="440124"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="4304896"
+          MonolithLength="548864"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-51-FPVN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="65106" LoopEnd="216653"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="4853760"
+          MonolithLength="536576"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-64-GDSL.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="275619" LoopEnd="427167"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="5390336"
+          MonolithLength="536576"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-76-OSMP.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="288708" LoopEnd="440253"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="5926912"
+          MonolithLength="548864"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-89-JUW2.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="166546" LoopEnd="257654"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="6475776"
+          MonolithLength="536576"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-102-GJA5.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="52728" LoopEnd="226849"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="7012352"
+          MonolithLength="532480"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-114-CY7O.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="120240" LoopEnd="279032"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="7544832"
+          MonolithLength="532480"/>
+  <sample Root="45" LoKey="45" HiKey="51" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-45-127-EA1B.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="115541" LoopEnd="441069"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="8077312"
+          MonolithLength="548864"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-38-M5FE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="244740" LoopEnd="418093"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="8626176"
+          MonolithLength="536576"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-51-8RJN.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="176553" LoopEnd="339075"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="9162752"
+          MonolithLength="536576"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-64-65SP.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="246891" LoopEnd="404600"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="9699328"
+          MonolithLength="532480"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-76-D75W.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="312148" LoopEnd="439158"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="10231808"
+          MonolithLength="532480"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-89-0QCF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="83907" LoopEnd="409584"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="10764288"
+          MonolithLength="536576"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-102-J90F.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="48058" LoopEnd="397286"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="11300864"
+          MonolithLength="536576"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-114-EWL8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="43938" LoopEnd="424903"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="11837440"
+          MonolithLength="536576"/>
+  <sample Root="52" LoKey="52" HiKey="58" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-52-127-4J47.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="42988" LoopEnd="423954"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="12374016"
+          MonolithLength="548864"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-38-BYOJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="335078" LoopEnd="438320"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="12922880"
+          MonolithLength="544768"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-51-1B48.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="225305" LoopEnd="332965"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="13467648"
+          MonolithLength="532480"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-64-5CA5.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="65451" LoopEnd="161862"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="14000128"
+          MonolithLength="532480"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-76-Z9CF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="87015" LoopEnd="205923"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="14532608"
+          MonolithLength="544768"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-89-3RVW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="261671" LoopEnd="436810"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="15077376"
+          MonolithLength="532480"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-102-7H9Q.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="258880" LoopEnd="354089"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="15609856"
+          MonolithLength="532480"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-114-FXL8.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="312873" LoopEnd="408084"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="16142336"
+          MonolithLength="532480"/>
+  <sample Root="59" LoKey="59" HiKey="65" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-59-127-H28R.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="249540" LoopEnd="344751"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="16674816"
+          MonolithLength="544768"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-38-F3JA.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="240760" LoopEnd="438622"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="17219584"
+          MonolithLength="532480"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-51-AXBJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="358223" LoopEnd="443212"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="17752064"
+          MonolithLength="532480"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-64-D6S0.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="184761" LoopEnd="286372"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="18284544"
+          MonolithLength="544768"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-76-4Y1X.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="57849" LoopEnd="375289"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="18829312"
+          MonolithLength="532480"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-89-1X23.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="68749" LoopEnd="203883"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="19361792"
+          MonolithLength="544768"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-102-C98U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="173741" LoopEnd="427739"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="19906560"
+          MonolithLength="532480"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-114-FD0P.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="187312" LoopEnd="441271"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="20439040"
+          MonolithLength="532480"/>
+  <sample Root="66" LoKey="66" HiKey="72" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-66-127-095M.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="85665" LoopEnd="339627"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="20971520"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-38-414G.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="347278" LoopEnd="438364"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="21504000"
+          MonolithLength="544768"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-51-OJ5A.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="125220" LoopEnd="441783"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="22048768"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-64-0WFX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="212501" LoopEnd="441916"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="22581248"
+          MonolithLength="544768"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-76-3XBP.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="232870" LoopEnd="327714"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="23126016"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-89-A9QD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="200546" LoopEnd="327427"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="23658496"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-102-GW5V.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="145492" LoopEnd="335896"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="24190976"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-114-PRVS.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="65991" LoopEnd="383409"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="24723456"
+          MonolithLength="532480"/>
+  <sample Root="73" LoKey="73" HiKey="79" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-73-127-SHYB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="75225" LoopEnd="360904"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="25255936"
+          MonolithLength="540672"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-38-8FD7.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="262362" LoopEnd="403885"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="25796608"
+          MonolithLength="544768"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-51-UMPQ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="172478" LoopEnd="299670"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="26341376"
+          MonolithLength="532480"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-64-BVBD.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="88830" LoopEnd="438156"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="26873856"
+          MonolithLength="532480"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-76-A1UO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="264967" LoopEnd="423566"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="27406336"
+          MonolithLength="532480"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-89-IUXM.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="149546" LoopEnd="403539"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="27938816"
+          MonolithLength="540672"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-102-JQVI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="180227" LoopEnd="434201"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="28479488"
+          MonolithLength="540672"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-114-RCBB.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="157806" LoopEnd="443495"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="29020160"
+          MonolithLength="532480"/>
+  <sample Root="80" LoKey="80" HiKey="86" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-80-127-AE2T.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="154083" LoopEnd="312811"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="29552640"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-38-FFDX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="233370" LoopEnd="423118"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="30085120"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-51-B7V6.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="145490" LoopEnd="265238"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="30617600"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-64-HSEO.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="179622" LoopEnd="306145"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="31150080"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-76-1NHW.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="70197" LoopEnd="197681"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="31682560"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-89-OJUT.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="83398" LoopEnd="273943"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="32215040"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-102-7R0Z.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="215319" LoopEnd="437530"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="32747520"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-114-0N9H.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="253096" LoopEnd="443563"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="33280000"
+          MonolithLength="532480"/>
+  <sample Root="87" LoKey="87" HiKey="93" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-87-127-NDGE.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="195650" LoopEnd="386116"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="33812480"
+          MonolithLength="532480"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-38-1U1U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="227096" LoopEnd="314161"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="34344960"
+          MonolithLength="532480"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-51-CV4H.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="137298" LoopEnd="223193"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="34877440"
+          MonolithLength="532480"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-64-BPLU.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="113912" LoopEnd="230920"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="35409920"
+          MonolithLength="532480"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-76-IHOU.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="322189" LoopEnd="417342"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="35942400"
+          MonolithLength="540672"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-89-JPT9.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="126510" LoopEnd="443951"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="36483072"
+          MonolithLength="532480"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-102-7JNI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="158376" LoopEnd="253621"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="37015552"
+          MonolithLength="540672"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-114-QSYV.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="246813" LoopEnd="373786"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="37556224"
+          MonolithLength="540672"/>
+  <sample Root="94" LoKey="94" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Miscellany/Waves/FM1/(2016331 42827)/xp-94-127-1IPC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="105882" LoopEnd="359833"
+          SampleRate="44100.00000000" Volume="16" MonolithOffset="38096896"
+          MonolithLength="532480"/>
+</samplemap>

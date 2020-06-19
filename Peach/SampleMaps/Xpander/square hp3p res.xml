@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Xpander/square hp3p res" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="371883" LoopEnd="537767"
+          MonolithOffset="0" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="170144" LoopEnd="326789"
+          MonolithOffset="684032" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="115399" LoopEnd="302809"
+          MonolithOffset="1368064" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="101283" LoopEnd="241618"
+          MonolithOffset="2052096" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="5336" LoopEnd="414927"
+          MonolithOffset="2736128" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="260091" LoopEnd="505841"
+          MonolithOffset="3420160" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="372176" LoopEnd="499147"
+          MonolithOffset="4104192" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres0-D1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="338341" LoopEnd="562602"
+          MonolithOffset="4788224" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="136927" LoopEnd="259840"
+          MonolithOffset="5472256" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="18531" LoopEnd="254036"
+          MonolithOffset="6156288" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="74814" LoopEnd="216122"
+          MonolithOffset="6840320" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="46287" LoopEnd="323773"
+          MonolithOffset="7524352" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="104718" LoopEnd="256238"
+          MonolithOffset="8208384" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="339411" LoopEnd="509398"
+          MonolithOffset="8892416" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="135812" LoopEnd="263817"
+          MonolithOffset="9576448" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="42" LoKey="39" HiKey="44" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres39-G#1 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="106444" LoopEnd="287839"
+          MonolithOffset="10260480" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="102114" LoopEnd="216836"
+          MonolithOffset="10944512" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="127603" LoopEnd="244244"
+          MonolithOffset="11628544" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="67343" LoopEnd="193346"
+          MonolithOffset="12312576" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="293409" LoopEnd="545000"
+          MonolithOffset="12996608" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="69994" LoopEnd="403519"
+          MonolithOffset="13680640" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="316667" LoopEnd="435455"
+          MonolithOffset="14364672" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="272528" LoopEnd="395407"
+          MonolithOffset="15048704" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="48" LoKey="45" HiKey="50" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres45-D2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="272728" LoopEnd="391528"
+          MonolithOffset="15732736" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="42788" LoopEnd="157621"
+          MonolithOffset="16416768" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="47245" LoopEnd="165975"
+          MonolithOffset="17100800" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="60756" LoopEnd="175593"
+          MonolithOffset="17784832" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="3621" LoopEnd="121353"
+          MonolithOffset="18468864" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="279792" LoopEnd="553140"
+          MonolithOffset="19152896" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="167769" LoopEnd="323348"
+          MonolithOffset="19836928" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="134516" LoopEnd="260531"
+          MonolithOffset="20520960" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="54" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres51-G#2 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="436355" LoopEnd="562365"
+          MonolithOffset="21204992" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1043" LoopEnd="113915"
+          MonolithOffset="21889024" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="84056" LoopEnd="196960"
+          MonolithOffset="22573056" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="261976" LoopEnd="376280"
+          MonolithOffset="23257088" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="194472" LoopEnd="309405"
+          MonolithOffset="23941120" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="79801" LoopEnd="192008"
+          MonolithOffset="24625152" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="5792" LoopEnd="121170"
+          MonolithOffset="25309184" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="152959" LoopEnd="274427"
+          MonolithOffset="25993216" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="60" LoKey="57" HiKey="62" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres57-D3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="143160" LoopEnd="258542"
+          MonolithOffset="26677248" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="13487" LoopEnd="127162"
+          MonolithOffset="27361280" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="2182" LoopEnd="117954"
+          MonolithOffset="28045312" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="9415" LoopEnd="123263"
+          MonolithOffset="28729344" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="120731" LoopEnd="270833"
+          MonolithOffset="29413376" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="89122" LoopEnd="203935"
+          MonolithOffset="30097408" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="210564" LoopEnd="328874"
+          MonolithOffset="30781440" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="83835" LoopEnd="201199"
+          MonolithOffset="31465472" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="66" LoKey="63" HiKey="68" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres63-G#3 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="137787" LoopEnd="262306"
+          MonolithOffset="32149504" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 1-16.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="1804" LoopEnd="113823"
+          MonolithOffset="32833536" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 17-32.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="4066" LoopEnd="119456"
+          MonolithOffset="33517568" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 33-48.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="965" LoopEnd="115004"
+          MonolithOffset="34201600" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 49-64.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="21443" LoopEnd="140879"
+          MonolithOffset="34885632" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 65-79.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="69735" LoopEnd="186486"
+          MonolithOffset="35569664" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 80-95.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="12393" LoopEnd="127689"
+          MonolithOffset="36253696" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 96-111.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="175684" LoopEnd="290740"
+          MonolithOffset="36937728" MonolithLength="684032" SampleRate="44100.00000000"/>
+  <sample Root="72" LoKey="69" HiKey="127" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Dropbox/Samples/Construction Kits/oberheim xpander construction kit/Session 1/Squares/square hp3p res/sqrhp3pres69-D4 112-127.aif"
+          Duplicate="0" LoopEnabled="1" LoopStart="347316" LoopEnd="461689"
+          MonolithOffset="37621760" MonolithLength="684032" SampleRate="44100.00000000"/>
+</samplemap>
