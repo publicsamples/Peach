@@ -37,18 +37,12 @@ Both instruments are under active development. New samples, features and updates
   
 
 1. Download Plugins for your platform on the [releases page](https://github.com/publicsamples/Lilac-Peach/releases)
-
 2. Download the [sample data](https://www.dropbox.com/sh/a24tqzsef0p5tia/AAAlyUDHWaHS3uDkEkqbaR-Ha?dl=0)
 3. Move the component files to  Macintosh HD/Library/Audio/Plug-Ins/Component
-
 4. Move the .vst file to  Macintosh HD/Library/Audio/Plug-Ins/VST
-
 5. Launch the plugin in your DAW or host
-
 6. Click on "install samples"
-
 7. Select the file ending with .hr1 that you downloaded from dropbox & select a location to save the samples
-
 8. Restart the plugin
 
   
