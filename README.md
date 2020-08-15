@@ -12,7 +12,7 @@ A pair of virtual Instruments based on the Roland System 100, Oberheim Xpander a
 Both instruments are under active development. New samples, features and updates will be forthcoming.
 
 
-**Lilac** takes 3 indentical voices, each with a dedicated sequencer/arpegiator, morphable waveforms, 2 LFOs and 2 envelopes.
+**Lilac** takes 3  identical voices, each with a dedicated sequencer/arpeggiator, morphable waveforms, 2 LFOs and 2 envelopes
 
   
 
@@ -25,7 +25,7 @@ Both instruments are under active development. New samples, features and updates
 ![enter image description here](https://raw.githubusercontent.com/publicsamples/Lilac-Peach/master/Peach/Peach.png)
 
 
-
+**Demo:** https://soundcloud.com/modularsamples-com/lilactech
   
 
 # Installation
