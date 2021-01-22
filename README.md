@@ -16,13 +16,13 @@ Both instruments are under active development. New samples, features and updates
 
   
 
-![enter image description here](https://raw.githubusercontent.com/publicsamples/Public-Samples/master/lilac.png)
+![Sample library disks](https://raw.githubusercontent.com/publicsamples/Public-Samples/master/lilac.png)
 
   
 
 **Peach** features a single oscilator with unison detune, low pass filter, morphable waveforms, 2 LFOs and 2 envelopes.
 
-![enter image description here](https://raw.githubusercontent.com/publicsamples/Lilac-Peach/master/Peach/Peach.png)
+![Sample library disks](https://raw.githubusercontent.com/publicsamples/Lilac-Peach/master/Peach/Peach.png)
 
 
 **Demo:** https://soundcloud.com/modularsamples-com/lilactech
@@ -61,8 +61,10 @@ Both instruments are under active development. New samples, features and updates
 
  
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
