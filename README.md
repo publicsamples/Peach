@@ -66,5 +66,5 @@ Both instruments are under active development. New samples, features and updates
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/https://github.com/publicsamples/Public-Samples/blob/master/images/ps2small.png?raw=true)
+](https://gum.co/YamahaPS-2SampleLibrary)
