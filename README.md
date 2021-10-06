@@ -1,7 +1,7 @@
 
 # Lilac & Peach
 
-A pair of virtual Instruments created with [HISE](http://hise.audio, an open source framework for sample based instruments. The samples used are adapted from our Roland System 100, Oberheim Xpander and Korg Volca Keys construction kits. 
+A pair of virtual Instruments created with [HISE](http://hise.audio), an open source framework for sample based instruments. The samples used are adapted from our Roland System 100, Oberheim Xpander and Korg Volca Keys construction kits. 
 
  
 
