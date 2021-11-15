@@ -53,12 +53,14 @@ Both instruments are under active development. New samples, features and updates
 5. Select the file ending with .hr1 that you downloaded from dropbox & select a location to save the samples
 6. Restart the plugin
 
- 
 
-# Support this project
+## **Get help**
 
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
+
+## **Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/blob/master/images/ps2small.png?raw=true)
-](https://gum.co/YamahaPS-2SampleLibrary)
+![dx15](https://www.modularsamples.com/img/msdx.png)
+](https://www.modularsamples.com/dx-15-for-kontakt/)
+
