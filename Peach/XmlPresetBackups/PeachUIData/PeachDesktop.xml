@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="wave1" x="-13.0" y="-9.0" width="848.0"
+             height="760.0" bgColour="4288621874" itemColour="4288621874"
+             itemColour2="4288621874" textColour="4288621874" text="*">
+    <Component type="ScriptLabel" id="Label1" x="583.0" y="589.0" text="Peach"
+               fontSize="60.0" width="150" height="70" parentComponent="wave1"
+               fontName="Futura" editable="0" textColour="4294825056"/>
+    <Component type="ScriptPanel" id="Panel4" x="30.0" y="596.0" parentComponent="wave1"
+               itemColour="4294825056" itemColour2="4294825056" width="529.0"
+               height="130">
+      <Component type="ScriptLabel" id="ScriptLabel5" x="107.0" y="90" width="136.0"
+                 height="39.0" parentComponent="Panel4" text="Chorus" textColour="4293744928"
+                 fontSize="30.0" editable="0" fontName="Futura"/>
+      <Component type="ScriptPanel" id="ScriptPanel2" x="10.0" y="12.0" width="340"
+                 height="80" parentComponent="Panel4" itemColour="4294939648"
+                 itemColour2="4294939648" bgColour="4294939648">
+        <Component type="ScriptSlider" id="Knob17" x="73" y="31.0" parentComponent="ScriptPanel2"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="45.0" height="47.0" processorId="Chorus1" parameterId="Rate"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob18" x="136" y="31.0" parentComponent="ScriptPanel2"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="40.0" height="48.0" processorId="Chorus1" parameterId="Width"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob19" x="269.0" y="31.0" parentComponent="ScriptPanel2"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="40" height="49" processorId="Chorus1" parameterId="Delay"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob7" x="200" y="31.0" parentComponent="ScriptPanel2"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="44.0" height="46.0" processorId="Chorus1" middlePosition="0.5"
+                   parameterId="Feedback" isPluginParameter="1"/>
+        <Component type="ScriptButton" id="Button2" x="15.0" y="29.0" parentComponent="ScriptPanel2"
+                   width="38.0" height="44.0" bgColour="4288621874" itemColour="4288621874"
+                   processorId="Chorus1" parameterId="Enabled" itemColour2="4288621874"
+                   isPluginParameter="1"/>
+        <Component type="ScriptPanel" id="ScriptPanel1" x="0.0" y="6.0" width="330"
+                   height="20.0" parentComponent="ScriptPanel2" borderRadius="0.0"
+                   itemColour="4288621874" itemColour2="4288621874" bgColour="4288621874"
+                   textColour="4288621874">
+          <Component type="ScriptLabel" id="ScriptLabel8" x="-15.0" y="0" width="100"
+                     height="20" parentComponent="ScriptPanel1" fontName="Futura"
+                     text="on/off" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel9" x="40.0" y="0.0" width="100"
+                     height="20" parentComponent="ScriptPanel1" fontName="Futura"
+                     text="rate" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel10" x="103.0" y="0.0" width="100"
+                     height="20" parentComponent="ScriptPanel1" fontName="Futura"
+                     text="width" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel11" x="169.0" y="-1.0" width="100"
+                     height="20" parentComponent="ScriptPanel1" fontName="Futura"
+                     text="feedback" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel12" x="239.0" y="-1.0" width="100"
+                     height="20" parentComponent="ScriptPanel1" fontName="Futura"
+                     text="delay" editable="0"/>
+        </Component>
+      </Component>
+      <Component type="ScriptPanel" id="ScriptPanel3" x="360.0" y="10.0" width="150"
+                 height="80" parentComponent="Panel4" itemColour="4294939648"
+                 itemColour2="4294939648" bgColour="4294939648">
+        <Component type="ScriptButton" id="Button3" x="103.0" y="28.0" parentComponent="ScriptPanel3"
+                   width="38.0" height="44.0" bgColour="4288621874" itemColour="4288621874"
+                   processorId="Simple Reverb1" parameterId="FreezeMode" itemColour2="4288621874"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob33" x="9.0" y="30.0" parentComponent="ScriptPanel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="45.0" height="47.0" processorId="Simple Reverb1" parameterId="WetLevel"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob34" x="57.0" y="30.0" parentComponent="ScriptPanel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="40.0" height="48.0" processorId="Simple Reverb1" parameterId="RoomSize"
+                   isPluginParameter="1"/>
+        <Component type="ScriptPanel" id="ScriptPanel4" x="0.0" y="6.0" width="160"
+                   height="20" parentComponent="ScriptPanel3" borderRadius="0.0"
+                   itemColour="4288621874" itemColour2="4288621874" bgColour="4288621874"
+                   textColour="4288621874">
+          <Component type="ScriptLabel" id="ScriptLabel13" x="-20.0" y="-1.0" width="100"
+                     height="20" parentComponent="ScriptPanel4" fontName="Futura"
+                     text="mix" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel14" x="27.0" y="-1.0" width="100"
+                     height="20" parentComponent="ScriptPanel4" fontName="Futura"
+                     text="size" editable="0"/>
+          <Component type="ScriptLabel" id="ScriptLabel15" x="70.0" y="-1.0" width="100"
+                     height="20" parentComponent="ScriptPanel4" fontName="Futura"
+                     text="freeze" editable="0"/>
+        </Component>
+      </Component>
+      <Component type="ScriptLabel" id="ScriptLabel16" x="370.0" y="88.0" width="136.0"
+                 height="39.0" parentComponent="Panel4" text="Reverb" textColour="4293744928"
+                 fontSize="30.0" editable="0" fontName="Futura"/>
+    </Component>
+    <Component type="ScriptPanel" id="wavepanel1" x="32.0" y="102.0" parentComponent="wave1"
+               width="288" height="479" text="Waveform" itemColour="4294825056"
+               itemColour2="4294825056">
+      <Component type="ScriptPanel" id="pitchpanel1" x="7.0" y="10.0" parentComponent="wavepanel1"
+                 width="73.0" height="404.0" text="*" itemColour="4293760800"
+                 itemColour2="4294939648" bgColour="4294952226" borderRadius="7.0"
+                 borderSize="8.0">
+        <Component type="ScriptSlider" id="pitch1" x="12.0" y="40.0" text="" processorId="Syntesizer Group1"
+                   parameterId="UnisonoVoiceAmount" width="42.0" height="46.0" parentComponent="pitchpanel1"
+                   bgColour="0" itemColour="0" itemColour2="0" textColour="4278190080"
+                   isPluginParameter="1" pluginParameterName="*" max="8.0" stepSize="1.0"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   min="1.0" isMetaParameter="1"/>
+        <Component type="ScriptSlider" id="plfo1" x="16.0" y="126.0" text="j" processorId="Syntesizer Group1"
+                   parameterId="UnisonoDetune" width="54.0" height="47.0" parentComponent="pitchpanel1"
+                   bgColour="0" itemColour="0" itemColour2="0" isPluginParameter="1"
+                   pluginParameterName="*" showTextBox="0" textColour="0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" max="6.0" middlePosition="1.0" mode="Frequency"
+                   isMetaParameter="1"/>
+        <Component type="ScriptSlider" id="pitchLFOspeed1" x="12.0" y="229.0" text=""
+                   processorId="Syntesizer Group1" parameterId="UnisonoSpread" middlePosition="1.0"
+                   width="42.0" height="44.0" parentComponent="pitchpanel1" bgColour="0"
+                   itemColour="0" itemColour2="0" textColour="0" isPluginParameter="1"
+                   pluginParameterName="*" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" max="2.0" isMetaParameter="1"/>
+        <Component type="ScriptSlider" id="Knob46" x="16.0" y="336.0" parentComponent="pitchpanel1"
+                   width="52.0" height="46.0" text="" itemColour="0" itemColour2="0"
+                   textColour="0" bgColour="0" processorId="pitchmod" parameterId="Intensity"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   suffix=" Hz" middlePosition="0.6000000238418579" isMetaParameter="1"
+                   pluginParameterName="*"/>
+        <Component type="ScriptLabel" id="Label25" x="-16.0" y="299.0" parentComponent="pitchpanel1"
+                   text="pitch lfo1" fontSize="15.0" fontStyle="Regular" fontName="Futura"
+                   bgColour="4288621874" height="17.0" width="103.0" itemColour="4288621874"
+                   editable="0"/>
+        <Component type="ScriptLabel" id="Label2" x="-28.0" y="100.0" parentComponent="pitchpanel1"
+                   text="detune" bgColour="4288621874" itemColour="4288621874" width="141.0"
+                   height="14.0" editable="0" fontName="Futura" fontSize="15.0"/>
+        <Component type="ScriptLabel" id="Label3" x="-28.0" y="196.0" parentComponent="pitchpanel1"
+                   text="spread" bgColour="4288621874" itemColour="4288621874" width="122.0"
+                   height="15.0" editable="0" fontName="Futura" fontSize="15.0"/>
+        <Component type="ScriptLabel" id="Label23" x="-22.0" y="17.0" parentComponent="pitchpanel1"
+                   text="number" bgColour="4288621874" itemColour="4288621874" width="109.0"
+                   height="14.0" editable="0" fontName="Futura" fontSize="15.0"/>
+      </Component>
+      <Component type="ScriptPanel" id="Panel2" x="94.0" y="38.0" parentComponent="wavepanel1"
+                 itemColour="4294939648" itemColour2="4293760800" width="182.0"
+                 height="431.0" bgColour="4294952226" text="later">
+        <Component type="ScriptSlider" id="layerenv1" x="68.0" y="263.0" text=""
+                   processorId="GROUPVEL" parameterId="Intensity" width="48.0" height="42.0"
+                   parentComponent="Panel2" bgColour="0" itemColour="0" itemColour2="0"
+                   textColour="0" pluginParameterName="group-env-amount1" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Layer1" x="40.0" y="35.0" processorId="GROUP LAYER1"
+                   parameterId="MacroValue" macroControl="No MacroControl" width="101.0"
+                   height="100.0" text="" parentComponent="Panel2" bgColour="7092609"
+                   itemColour="7092609" itemColour2="7092609" textColour="15655392"
+                   pluginParameterName="layer-position1" defaultValue="1.0" middlePosition="0.5"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_XL.png" numStrips="101.0"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="track1" x="10.0" y="173.0" text="" width="46.0"
+                   height="40.0" parentComponent="Panel2" bgColour="0" itemColour="0"
+                   itemColour2="0" textColour="0" pluginParameterName="group-lfo-amount1"
+                   processorId="Global Time Variant Modulator1" parameterId="Intensity"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="layerlfo1" x="10.0" y="263.0" text=""
+                   processorId="Global Time Variant Modulator2" parameterId="Intensity"
+                   width="42.0" height="36.0" parentComponent="Panel2" bgColour="0"
+                   itemColour="0" itemColour2="0" textColour="0" pluginParameterName="group-lfo-amount2"
+                   showValuePopup="Above" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" isMetaParameter="1" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob49" x="69.0" y="173.0" parentComponent="Panel2"
+                   width="55.0" height="70.0" text="" bgColour="0" itemColour="0"
+                   itemColour2="0" textColour="0" processorId="AHDSR Envelope3"
+                   parameterId="Intensity" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label35" x="-12.0" y="137.0" parentComponent="Panel2"
+                   text="lfo             env          track           " width="204.0"
+                   height="21.0" fontSize="15.0" bgColour="4288621874" editable="0"
+                   fontName="Futura"/>
+        <Component type="ScriptSlider" id="Knob1" x="-8.0" y="348.0" parentComponent="Panel2"
+                   filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" width="49.0" height="65.0" processorId="AHDSR Envelope3"
+                   mode="Time" max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Attack" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob3" x="33.0" y="348.0" parentComponent="Panel2"
+                   filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" width="49.0" height="74.0" processorId="AHDSR Envelope3"
+                   mode="Time" max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Decay" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob2" x="75.0" y="348.0" parentComponent="Panel2"
+                   filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" width="46.0" height="73.0" processorId="AHDSR Envelope3"
+                   mode="Decibel" max="0.0" stepSize="0.1000000014901161" suffix=" dB"
+                   middlePosition="-18.0" parameterId="Sustain" min="-100.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob4" x="122.0" y="348.0" parentComponent="Panel2"
+                   filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" width="50.0" height="81.0" processorId="AHDSR Envelope3"
+                   mode="Time" max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob27" x="125.0" y="173.0" parentComponent="Panel2"
+                   numStrips="101.0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png"
+                   width="42.0" height="47.0" processorId="GROUP TRACK1" parameterId="Intensity"
+                   isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label4" x="-5.0" y="11.0" parentComponent="Panel2"
+                   text="position" width="133.0" height="18.0" bgColour="4288621874"
+                   editable="0" fontSize="15.0" fontName="Futura"/>
+        <Component type="ScriptLabel" id="Label5" x="-10.0" y="318.0" parentComponent="Panel2"
+                   text="attack   decay   sustain    release" width="202.0" height="24.0"
+                   bgColour="4288621874" itemColour="4288621874" editable="0" fontName="Futura"
+                   fontSize="15.0"/>
+        <Component type="ScriptLabel" id="Label6" x="-32.0" y="230.0" parentComponent="Panel2"
+                   text="lfo 2         velocity" bgColour="4288621874" width="189.0"
+                   height="18.0" editable="0" fontName="Futura" fontSize="15.0"/>
+      </Component>
+      <Component type="ScriptLabel" id="ScriptLabel3" x="-3.0" y="423.0" width="94.0"
+                 height="32.0" parentComponent="wavepanel1" text="Voice" textColour="4293744928"
+                 fontSize="30.0" editable="0" fontName="Futura"/>
+      <Component type="ScriptLabel" id="ScriptLabel4" x="173.0" y="-8.0" width="133.0"
+                 height="54.0" parentComponent="wavepanel1" text="Layer" textColour="4293744928"
+                 fontSize="30.0" editable="0" fontName="Futura"/>
+    </Component>
+    <Component type="ScriptPanel" id="layerpanel1" x="337.0" y="28.0" parentComponent="wave1"
+               width="220" height="554.0" itemColour="4294825056" itemColour2="4294825056">
+      <Component type="ScriptPanel" id="Panel3" x="12.0" y="30.0" parentComponent="layerpanel1"
+                 itemColour="4293760800" itemColour2="4294939648" bgColour="4294952226"
+                 width="194.0" height="362.0">
+        <Component type="ScriptSlider" id="Knob5" x="15.0" y="40.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_XL.png" numStrips="101.0"
+                   width="75.0" height="74.0" scaleFactor="0.699999988079071" processorId="Filter1"
+                   parameterId="Frequency" mode="Frequency" min="20.0" max="20000.0"
+                   stepSize="1.0" suffix=" Hz" middlePosition="1500.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob6" x="11.0" y="145.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   width="47.0" height="43.0" processorId="Notenumber Modulator1"
+                   parameterId="Intensity" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob9" x="117.0" y="145.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   width="46.0" height="43.0" processorId="flfo1" parameterId="Intensity"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob11" x="40.0" y="289.0" parentComponent="Panel3"
+                   numStrips="31.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   height="76.0" width="37.0" processorId="AHDSR Envelope2" mode="Time"
+                   max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Decay" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob12" x="136.0" y="289.0" parentComponent="Panel3"
+                   numStrips="31.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   height="76.0" width="37.0" processorId="AHDSR Envelope2" mode="Time"
+                   max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Release" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob13" x="-2.0" y="288.0" parentComponent="Panel3"
+                   numStrips="31.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   height="76.0" width="37.0" processorId="AHDSR Envelope2" mode="Time"
+                   max="20000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Attack" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob15" x="107.0" y="40.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_XL.png" numStrips="101.0"
+                   scaleFactor="0.699999988079071" width="62.0" height="73.0" processorId="Filter1"
+                   parameterId="Q" max="8.0" middlePosition="1.0" min="0.300000011920929"
+                   isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label7" x="-15.0" y="12.0" parentComponent="Panel3"
+                   text="frequency           resonance" width="213.0" height="16.0"
+                   bgColour="4288621874" fontName="Futura" fontSize="15.0" editable="0"/>
+        <Component type="ScriptSlider" id="Knob28" x="66.0" y="145.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="47.0" height="44.0" processorId="AHDSR Envelope2" parameterId="Intensity"
+                   isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label8" x="-30.0" y="114.0" parentComponent="Panel3"
+                   width="226.0" height="19.0" text="track         env          lfo1"
+                   bgColour="4288621874" fontName="Futura" fontSize="15.0" editable="0"/>
+        <Component type="ScriptLabel" id="Label9" x="-24.0" y="266.0" parentComponent="Panel3"
+                   text="attack    decay   sustain    release" width="244.0" height="18.0"
+                   bgColour="4288621874" itemColour="4288621874" fontName="Futura"
+                   fontSize="15.0" editable="0"/>
+        <Component type="ScriptSlider" id="Knob29" x="66.0" y="218.0" parentComponent="Panel3"
+                   width="43.0" height="43.0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png"
+                   numStrips="101.0" processorId="Velocity Modulator1" parameterId="Intensity"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob30" x="119.0" y="218.0" parentComponent="Panel3"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="51.0" height="43.0" processorId="flfo2" parameterId="Intensity"
+                   isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label11" x="17.0" y="192.0" parentComponent="Panel3"
+                   text="velocity       lfo2" bgColour="4288621874" itemColour="4288621874"
+                   width="178.0" height="17.0" fontName="Futura" fontSize="15.0"
+                   editable="0"/>
+      </Component>
+      <Component type="ScriptSlider" id="Knob10" x="98.0" y="325.0" parentComponent="layerpanel1"
+                 numStrips="31.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                 height="70.0" width="41.0" processorId="AHDSR Envelope2" mode="Decibel"
+                 max="0.0" stepSize="0.1000000014901161" suffix=" dB" middlePosition="-18.0"
+                 parameterId="Sustain" min="-100.0" isPluginParameter="1"/>
+      <Component type="ScriptLabel" id="ScriptLabel1" x="25.0" y="381.0" width="199.0"
+                 height="55.0" parentComponent="layerpanel1" text="Amp Envelope"
+                 textColour="4293744928" fontSize="30.0" editable="0" fontName="Futura"/>
+      <Component type="ScriptPanel" id="Panel7" x="9.0" y="428.0" parentComponent="layerpanel1"
+                 width="201.0" height="120.0" itemColour2="4294939648" itemColour="4294939648"
+                 textColour="587399425" text="jkjk">
+        <Component type="ScriptSlider" id="Knob20" x="46.0" y="41.0" parentComponent="Panel7"
+                   width="45.0" height="90.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" processorId="AHDSR Envelope1" mode="Time" max="20000.0"
+                   stepSize="1.0" suffix=" ms" middlePosition="1000.0" parameterId="Decay"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob21" x="94.0" y="41.0" parentComponent="Panel7"
+                   width="38.0" height="85.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" processorId="AHDSR Envelope1" mode="Decibel"
+                   max="0.0" stepSize="0.1000000014901161" suffix=" dB" middlePosition="-18.0"
+                   parameterId="Sustain" min="-100.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob22" x="-2.0" y="39.0" parentComponent="Panel7"
+                   width="51.0" height="88.0" filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" processorId="AHDSR Envelope1" mode="Time" max="20000.0"
+                   stepSize="1.0" suffix=" ms" middlePosition="1000.0" parameterId="Attack"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob23" x="144.0" y="41.0" parentComponent="Panel7"
+                   filmstripImage="{PROJECT_FOLDER}Orange_Cap_Slider_by_Halon.png"
+                   numStrips="31.0" width="53.0" height="70.0" processorId="AHDSR Envelope1"
+                   mode="Time" max="10000.0" stepSize="1.0" suffix=" ms" middlePosition="1000.0"
+                   parameterId="Release" isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label15" x="-11.0" y="15.0" parentComponent="Panel7"
+                   text="attack    decay    sustain     release" bgColour="4288621874"
+                   itemColour2="4288621874" itemColour="4288621874" width="228.0"
+                   height="18.0" fontName="Futura" fontSize="15.0" editable="0"/>
+      </Component>
+      <Component type="ScriptLabel" id="ScriptLabel2" x="-43.0" y="-1.0" width="166.0"
+                 height="36.0" parentComponent="layerpanel1" text="Filter" textColour="4293744928"
+                 fontSize="30.0" editable="0" fontName="Futura"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel1" x="576.0" y="42.0" parentComponent="wave1"
+               itemColour="4294825056" itemColour2="4294825056" width="165.0"
+               height="530.0" text="lfos">
+      <Component type="ScriptPanel" id="lfo1" x="12.0" y="47.0" parentComponent="Panel1"
+                 width="136.0" height="209.0" itemColour="4293760800" itemColour2="4294939648">
+        <Component type="ScriptSlider" id="layerlfodelay1" x="-40.0" y="67.0" text="*"
+                   processorId="LFO Modulator1" parameterId="FadeIn" max="3000.0"
+                   middlePosition="500.0" mode="Time" width="44.0" height="51.0"
+                   parentComponent="lfo1" bgColour="4288621874" itemColour="4285282689"
+                   itemColour2="4285282689" pluginParameterName="lfo-delay1" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png"
+                   numStrips="101.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="layerlfospeed1" x="6.0" y="29.0" text="speed"
+                   processorId="LFO Modulator1" parameterId="Frequency" max="40.0"
+                   middlePosition="10.0" width="44.0" height="43.0" parentComponent="lfo1"
+                   bgColour="4285084288" itemColour="4285282689" itemColour2="4285282689"
+                   textColour="4293845472" pluginParameterName="lfo-speed1" min="0.1000000014901161"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   mode="Frequency" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="layerlfosmooth1" x="72.0" y="95.0" text="smooth"
+                   processorId="LFO Modulator1" parameterId="SmoothingTime" width="50.0"
+                   height="39.0" parentComponent="lfo1" bgColour="4285282689" itemColour="4285282689"
+                   itemColour2="4285282689" textColour="4293845472" pluginParameterName="lfo-smooth1"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M.png" numStrips="101.0"
+                   stepSize="1.0" max="1000.0" middlePosition="100.0" isPluginParameter="1"/>
+        <Component type="ScriptComboBox" id="ltype1" x="56.0" y="28.0" max="5" text=""
+                   processorId="LFO Modulator1" parameterId="WaveFormType" items="Sine&#10;Triangle&#10;Saw&#10;Square&#10;Random"
+                   width="78.0" height="34.0" parentComponent="lfo1" bgColour="4288621874"
+                   itemColour="4288621874" itemColour2="4288621874" pluginParameterName="lfo-wave1"
+                   isPluginParameter="1"/>
+        <Component type="ScriptButton" id="sync1" x="96.0" y="161.0" width="31.0"
+                   height="36.0" text="sync" processorId="LFO Modulator1" parameterId="TempoSync"
+                   parentComponent="lfo1" bgColour="4288621874" itemColour="4288621874"
+                   itemColour2="4288621874" pluginParameterName="lfo-sync1" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob8" x="5.0" y="162.0" parentComponent="lfo1"
+                   numStrips="101.0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png"
+                   width="28.0" height="33.0" scaleFactor="0.699999988079071" processorId="LFO x"
+                   parameterId="Intensity" isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label19" x="-21.0" y="4.0" parentComponent="lfo1"
+                   text="speed           wave" bgColour="4288621874" itemColour="4288621874"
+                   width="155.0" height="19.0" fontName="Futura" fontSize="15.0"
+                   editable="0"/>
+        <Component type="ScriptLabel" id="Label20" x="-12.0" y="73.0" parentComponent="lfo1"
+                   text="delay           smooth" bgColour="4288621874" itemColour="4288621874"
+                   width="144.0" height="14.0" fontName="Futura" fontSize="15.0"
+                   editable="0"/>
+        <Component type="ScriptLabel" id="Label22" x="-13.0" y="139.0" parentComponent="lfo1"
+                   text="mod    spd           sync" width="153.0" height="16.0"
+                   bgColour="4288621874" itemColour="4288621874" fontName="Futura"
+                   fontSize="15.0" editable="0"/>
+        <Component type="ScriptSlider" id="Knob31" x="38.0" y="162.0" parentComponent="lfo1"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="24.0" height="35.0" scaleFactor="0.699999988079071" processorId="LFO x"
+                   parameterId="Frequency" mode="Frequency" min="0.1000000014901161"
+                   max="40.0" suffix=" Hz" middlePosition="10.0" isPluginParameter="1"/>
+      </Component>
+      <Component type="ScriptPanel" id="Panel6" x="13.0" y="288.0" parentComponent="Panel1"
+                 width="137.0" height="225.0" itemColour="4294939648" itemColour2="4293760800">
+        <Component type="ScriptLabel" id="Label18" x="-1.0" y="155.0" parentComponent="Panel6"
+                   text="mod    spd           sync" itemColour="4288621874" bgColour="4288621874"
+                   width="142.0" height="16.0" fontName="Futura" fontSize="15.0"
+                   editable="0"/>
+        <Component type="ScriptSlider" id="Knob14" x="5.0" y="38.0" parentComponent="Panel6"
+                   width="43.0" height="40.0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png"
+                   numStrips="101.0" processorId="LFO g 2" parameterId="Frequency"
+                   max="40.0" min="0.1000000014901161" middlePosition="10.0"/>
+        <Component type="ScriptSlider" id="Knob26" x="4.0" y="110.0" parentComponent="Panel6"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="46.0" height="49.0" text="delay   smooth" processorId="LFO g 2"
+                   parameterId="FadeIn" max="3000.0" middlePosition="500.0" mode="Time"
+                   isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob24" x="76.0" y="110.0" parentComponent="Panel6"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="49.0" height="44.0" processorId="LFO g 2" parameterId="SmoothingTime"
+                   max="1000.0" middlePosition="100.0" isPluginParameter="1"/>
+        <Component type="ScriptSlider" id="Knob25" x="10.0" y="182.0" parentComponent="Panel6"
+                   filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png" numStrips="101.0"
+                   width="28.0" height="37.0" scaleFactor="0.699999988079071" processorId="LFO x2"
+                   parameterId="Intensity" isPluginParameter="1"/>
+        <Component type="ScriptComboBox" id="ComboBox1" x="60.0" y="39.0" max="5"
+                   parentComponent="Panel6" width="77.0" height="38.0" bgColour="4288621874"
+                   itemColour="4288621874" itemColour2="4288621874" processorId="LFO g 2"
+                   parameterId="WaveFormType" items="Sine&#10;Triangle&#10;Saw&#10;Square&#10;Random"/>
+        <Component type="ScriptButton" id="Button1" x="103.0" y="180.0" parentComponent="Panel6"
+                   width="30.0" height="36.0" bgColour="4288621874" itemColour="4288621874"
+                   itemColour2="4288621874" processorId="LFO g 2" parameterId="TempoSync"
+                   isPluginParameter="1"/>
+        <Component type="ScriptLabel" id="Label16" x="-24.0" y="14.0" parentComponent="Panel6"
+                   width="162.0" height="17.0" text="speed           wave" bgColour="4288621874"
+                   itemColour="4288621874" fontName="Futura" fontSize="15.0" editable="0"/>
+        <Component type="ScriptLabel" id="Label17" x="-31.0" y="89.0" parentComponent="Panel6"
+                   text="delay           smooth" bgColour="4288621874" itemColour="4288621874"
+                   width="184.0" height="12.0" fontName="Futura" fontSize="15.0"
+                   editable="0"/>
+        <Component type="ScriptSlider" id="Knob32" x="46.0" y="182.0" parentComponent="Panel6"
+                   numStrips="101.0" filmstripImage="{PROJECT_FOLDER}KNB_MN5_M-2.png"
+                   scaleFactor="0.699999988079071" width="25.0" height="34.0" processorId="LFO x2"
+                   parameterId="Frequency" mode="Frequency" min="0.1000000014901161"
+                   max="40.0" suffix=" Hz" middlePosition="10.0" isPluginParameter="1"/>
+      </Component>
+      <Component type="ScriptLabel" id="ScriptLabel6" x="75.0" y="12.0" width="74.0"
+                 height="36.0" parentComponent="Panel1" text="LFO 1" fontSize="30.0"
+                 textColour="4293744928" editable="0" fontName="Futura"/>
+      <Component type="ScriptLabel" id="ScriptLabel7" x="8.0" y="254.0" width="76.0"
+                 height="36.0" parentComponent="Panel1" text="LFO 2" itemColour2="4293744928"
+                 textColour="4293744928" fontSize="30.0" editable="0" fontName="Futura"/>
+    </Component>
+    <Component type="ScriptPanel" id="Panel8" x="32.0" y="28.0" parentComponent="wave1"
+               width="288.0" height="63.0" itemColour2="4294825056" itemColour="4294825056">
+      <Component type="ScriptComboBox" id="cmbSampleMap" x="97.0" y="17.0" max="50"
+                 processorId="Sampler1" items="System101/FM-A&#10;System101/FM-B&#10;System101/FM-C&#10;System101/MISC-OX&#10;System101/MISC-VOX&#10;System101/NOISE-PINK&#10;System101/NOISE-WHITE&#10;System101/SAW-HIRES&#10;System101/SAW-MIDRES&#10;System101/SAW-VERYHIRES&#10;System101/SQUARE-DETUNE&#10;System101/SQUARE-HIRES&#10;System101/SQUARE-MIDRES&#10;System101/SQUARE-NORES&#10;System101/SQUARE-PW&#10;System101/SQUARE-PWM&#10;System101/TRI-HIRES&#10;System101/TRI-MIDRES&#10;System101/TRI-NORES&#10;VolcaKeys/RM-FILTER-VHiRES&#10;VolcaKeys/SAW-UNISON-DETUNE&#10;VolcaKeys/SAW-UNISON-FILTER-HIRES&#10;VolcaKeys/SQUARE-FILTER-HIRES&#10;VolcaKeys/THICK5TH&#10;Xpander/BPPULSE&#10;Xpander/FM filter&#10;Xpander/FM1&#10;Xpander/FM2&#10;Xpander/HILOSaw&#10;Xpander/SQR3HI1LO&#10;Xpander/pwm&#10;Xpander/saw 2hp1lp res&#10;Xpander/saw 2notch1lp res&#10;Xpander/saw 3hp1lp res&#10;Xpander/saw bp2p res&#10;Xpander/saw bp4p res&#10;Xpander/saw detune&#10;Xpander/saw detune lp2p res&#10;Xpander/saw hp1p res&#10;Xpander/saw lp3p res&#10;Xpander/saw phase&#10;Xpander/saw phase3p res&#10;Xpander/square hp2p res&#10;Xpander/square hp3p res&#10;Xpander/square lp1p res&#10;Xpander/square lp2p res&#10;Xpander/square lp3p res&#10;Xpander/square lp4p res&#10;Xpander/square phase3p res&#10;Xpander/triangle 2hp1lp res"
+                 width="169.0" height="36.0" text="wave" parentComponent="Panel8"
+                 bgColour="4288621874" itemColour="4288621874" itemColour2="4288621874"
+                 isPluginParameter="1" pluginParameterName="wave1"/>
+      <Component type="ScriptLabel" id="Label10" x="-24.0" y="18.0" parentComponent="Panel8"
+                 text="Wave" textColour="4293744928" fontSize="30.0" itemColour2="0"
+                 editable="0" fontName="Futura"/>
+    </Component>
+    <Component type="ScriptLabel" id="Label12" x="637.0" y="670.0" text="presets"
+               fontSize="30.0" width="90" height="40" parentComponent="wave1"
+               fontName="Futura" editable="0" textColour="4294939648"/>
+  </Component>
+  <Component type="ScriptButton" id="presets" x="580.0" y="663.0" width="40.0"
+             height="40.0" itemColour="4294825056" itemColour2="4294825056"
+             bgColour="4294825056" textColour="4294825056"/>
+  <Component type="ScriptPanel" id="presetspage" x="19.0" y="16.0" width="530"
+             height="560" itemColour="4294825056" itemColour2="4294825056"
+             visible="0">
+    <Component type="ScriptFloatingTile" id="ScriptFloatingTile1" x="18.0" y="34.0"
+               width="500" height="490" parentComponent="presetspage" ContentType="PresetBrowser"
+               bgColour="3036648448" itemColour="4288621874" itemColour2="0"
+               Data="{&#10;  &quot;ShowSaveButton&quot;: true,&#10;  &quot;ShowExpansionsAsColumn&quot;: false,&#10;  &quot;ShowFolderButton&quot;: true,&#10;  &quot;ShowNotes&quot;: true,&#10;  &quot;ShowEditButtons&quot;: true,&#10;  &quot;EditButtonOffset&quot;: 10,&#10;  &quot;ShowAddButton&quot;: true,&#10;  &quot;ShowRenameButton&quot;: true,&#10;  &quot;ShowDeleteButton&quot;: true,&#10;  &quot;ShowFavoriteIcon&quot;: true,&#10;  &quot;ButtonsInsideBorder&quot;: false,&#10;  &quot;NumColumns&quot;: 2,&#10;  &quot;ColumnWidthRatio&quot;: [&#10;    0.3333333333333333,&#10;    0.3333333333333333,&#10;    0.3333333333333333&#10;  ],&#10;  &quot;ListAreaOffset&quot;: [&#10;    0,&#10;    0,&#10;    0,&#10;    0&#10;  ],&#10;  &quot;ColumnRowPadding&quot;: [&#10;    0,&#10;    0,&#10;    0,&#10;    0&#10;  ],&#10;  &quot;SearchBarBounds&quot;: [],&#10;  &quot;MoreButtonBounds&quot;: [],&#10;  &quot;SaveButtonBounds&quot;: [],&#10;  &quot;FavoriteButtonBounds&quot;: []&#10;}"
+               textColour="4288621874" itemColour3="4288621874"/>
+  </Component>
+</ContentProperties>
