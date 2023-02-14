@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="System101/FM-C" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-16-HH9I.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="78611" LoopEnd="218798"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="0" SampleEnd="466944"
+          MonolithOffset="0" MonolithLength="466944" Normalized="1" NormalizedPeak="11.53767586"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-32-12DJ.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="283484" LoopEnd="357241"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="466944"
+          SampleEnd="466944" MonolithOffset="466944" MonolithLength="466944"
+          Normalized="1" NormalizedPeak="101.76087189"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-48-1SUC.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="209533" LoopEnd="364529"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="933888"
+          SampleEnd="466944" MonolithOffset="933888" MonolithLength="466944"
+          Normalized="1" NormalizedPeak="26.12998199"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-64-4X2U.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="123074" LoopEnd="196665"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="1400832"
+          SampleEnd="466944" MonolithOffset="1400832" MonolithLength="466944"
+          Normalized="1" NormalizedPeak="9.31674671"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-79-L3N5.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="282061" LoopEnd="356304"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="1867776"
+          SampleEnd="471040" MonolithOffset="1867776" MonolithLength="471040"
+          Normalized="1" NormalizedPeak="3.58540297"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-95-9VVF.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="196205" LoopEnd="343889"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="2338816"
+          SampleEnd="475136" MonolithOffset="2338816" MonolithLength="475136"
+          Normalized="1" NormalizedPeak="5.33925343"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-111-VGCX.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="158909" LoopEnd="269363"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="2813952"
+          SampleEnd="466944" MonolithOffset="2813952" MonolithLength="466944"
+          Normalized="1" NormalizedPeak="4.31258202"/>
+  <sample Root="87" LoKey="0" HiKey="120" LoVel="0" HiVel="128" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Bonus Audio/sys101 STO FM/(20161025 201132)/sys-C4-127-8ZJI.wav"
+          Duplicate="0" LoopEnabled="1" LoopStart="112446" LoopEnd="185928"
+          Pitch="-14" SampleRate="44100.00000000" SampleStart="3280896"
+          SampleEnd="466944" MonolithOffset="3280896" MonolithLength="466944"
+          Normalized="1" NormalizedPeak="4.52083349"/>
+</samplemap>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="System101/NOISE-PINK" RRGroupAmount="8.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-32-4BB8.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1301499"
+          SampleStart="843516" MonolithOffset="0" MonolithLength="2121728"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="3"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-48-QNL2.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1423669"
+          SampleStart="182521" MonolithOffset="2121728" MonolithLength="2138112"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="4"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-64-7H0Z.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1977239"
+          SampleStart="63103" MonolithOffset="4259840" MonolithLength="2158592"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="5"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-79-PNIV.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1961859"
+          SampleStart="79534" MonolithOffset="6418432" MonolithLength="2174976"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="6"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-95-3FPJ.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1787538"
+          SampleStart="110732" MonolithOffset="8593408" MonolithLength="2162688"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="7"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-111-48QO.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1954562"
+          SampleStart="76494" MonolithOffset="10756096" MonolithLength="2166784"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="8"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-127-1X5K.wav"
+          Duplicate="0" LoopEnabled="1" Normalized="0" SampleEnd="1478018"
+          SampleStart="974807" MonolithOffset="12922880" MonolithLength="2162688"
+          SampleRate="44100.00000000"/>
+  <sample Root="36" LoKey="0" HiKey="120" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="/Volumes/samplesz/Construction Kits/Roland System100 Model 101 Construction Kit/sys100Audio/Noise/Pink/sys-C1-32-4BB8.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="15.95723724" MonolithOffset="15085568"
+          MonolithLength="2121728" SampleRate="44100.00000000"/>
+</samplemap>

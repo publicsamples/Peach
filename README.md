@@ -1,16 +1,16 @@
 
 # Peach
 
-A simple virtual Instruments created with [HISE](http://hise.audio), an open source framework for sample based instruments. The samples used are adapted from our Roland System 100, Oberheim Xpander and Korg Volca Keys construction kits. 
+A  virtual Instrument created with samples from the Roland System 100.
 
 
-**Peach** features a single oscilator with unison detune, low pass filter, morphable waveforms, 2 LFOs and 2 envelopes.
+Peach features a single oscilator with unison detune, low pass filter, morphable waveforms, 2 LFOs,  2 envelopes and Chorus + reverb effects.
 
 ![Peach](https://raw.githubusercontent.com/publicsamples/Peach/master/Peach/Peach.png)
 
-
-  
-
 # Installation
 
-Coming soon
+1. Clone this repository
+2. Download sample content
+3. Build project in [HISE](http://hise.audio)
+
