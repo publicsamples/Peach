@@ -2,10 +2,10 @@
 
 <ProjectSettings>
   <Name value="Peach"/>
-  <Version value="1.0.0"/>
+  <Version value="1.0.1"/>
   <Description value=""/>
-  <BundleIdentifier value="com.myCompany.product"/>
-  <PluginCode value="Pech"/>
+  <BundleIdentifier value="com.modularsamples.product"/>
+  <PluginCode value="Msph"/>
   <EmbedAudioFiles value="1"/>
   <SupportFullDynamicsHLAC value="0"/>
   <AdditionalDspLibraries value=""/>
@@ -20,4 +20,17 @@
   <SupportMonoFX value="No"/>
   <UseRawFrontend value="No"/>
   <VST3Support value="1"/>
+  <EmbedImageFiles value="Yes"/>
+  <ExtraDefinitionsLinux value=""/>
+  <EnableMidiInputFX value="No"/>
+  <EnableMidiOut value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <ExpansionType value="Disabled"/>
+  <EncryptionKey value=""/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="No"/>
+  <ForceStereoOutput value="No"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <EnableGlobalPreprocessor value="No"/>
 </ProjectSettings>
