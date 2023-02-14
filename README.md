@@ -11,6 +11,6 @@ Peach features a single oscilator with unison detune, low pass filter, morphable
 # Installation
 
 1. Clone this repository
-2. Download sample content
+2. Download [sample content] (https://github.com/publicsamples/Peach/releases/download/1.0.1/PeachSamples.zip)
 3. Build project in [HISE](http://hise.audio)
 
